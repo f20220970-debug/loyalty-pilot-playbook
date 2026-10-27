@@ -1,0 +1,2001 @@
+user_id,orders,hero_product,hero_times_bought,arm
+17,41,Natural Lime Flavor Sparkling Mineral Water,33,control
+27,82,Pure Coconut Water,31,control
+50,68,Natural Artesian Bottled Water,54,control
+54,77,Electrolyte Enhanced Water,28,control
+90,72,Organic Heritage Flakes Cereal,45,test
+140,77,Enlightened Organic Raw Kombucha,58,control
+142,46,Applewood Smoked Bacon,29,test
+146,41,Pure Almond Unsweetened Original Almond Milk,24,test
+152,65,Lactose Free 2% Reduced Fat Milk,47,test
+154,35,Lemon Seltzer Water,26,control
+173,45,Organic Unsweetened Almond Milk,12,control
+187,33,Original Party Mix Catt Treats,25,control
+195,59,Extra Fancy Unsalted Mixed Nuts,37,test
+204,59,Almond Milk Strawberry Yogurt,31,control
+210,100,2% Reduced Fat Milk,80,test
+222,71,Perfectouch Grab N Go Cups With Lids,24,test
+223,50,Guacamole,31,test
+227,31,Organic Strawberries,18,test
+232,36,Distilled Water,26,control
+234,42,100% Whole Wheat English Muffin 6 Ct,36,test
+236,45,Spring Water,28,control
+248,58,Organic Cucumber,42,control
+262,46,Greek Yogurt 0% Fat Plain,15,test
+278,69,Limes,36,control
+280,42,Organic Avocado,34,control
+281,30,Banana,17,test
+289,50,Organic Hass Avocado,42,test
+290,51,Pure Baking Soda,46,test
+300,39,Organic Baby Spinach,16,test
+310,100,India Pale Ale,25,test
+313,100,Organic Tomato Cluster,64,control
+323,72,Sparkling Lemon Water,49,test
+327,64,Banana,29,test
+334,64,Gluten Free Blueberry Waffles,36,test
+373,58,Organic Spaghetti Squash,22,control
+398,53,Organic Baby Spinach,38,test
+409,87,Banana,51,control
+423,42,Organic Half & Half,22,control
+432,53,Distilled Water,38,control
+444,43,Yellow Bell Pepper,38,control
+448,34,Banana,23,test
+451,32,Banana,26,control
+454,55,Iceberg Lettuce,34,control
+462,59,Organic Reduced Fat Omega-3 Milk,55,control
+464,49,Hand Dipped Basket Whole Milk Ricotta,27,test
+465,41,Organic Unsweetened Almond Milk,27,test
+496,82,Bag of Organic Bananas,51,test
+516,93,Mini Babybel Light Semisoft Edam Cheeses,45,control
+529,50,"Milk, Vitamin D",21,test
+560,35,Sparkling Water Grapefruit,28,control
+562,52,0% Greek Strained Yogurt,50,control
+596,64,Fresh Mozzarella Snacking Cheese,37,control
+599,33,Draft Sake,22,control
+612,40,Organic Homogenized Whole Milk,35,test
+626,95,Banana,53,test
+630,41,"Milk, Reduced Fat, 2% Milkfat",35,control
+641,30,Sinfully Sweet Campari Tomatoes,19,control
+645,39,Organic Large Grade AA Omega-3 Eggs,24,test
+646,57,Organic Large Extra Fancy Fuji Apple,45,control
+649,46,Italian Sparkling Mineral Water,41,control
+652,95,Thousand Island Salad Snax,84,control
+655,79,Whole Milk,51,control
+667,76,Sparkling Natural Mineral Water,63,control
+688,63,Pure Sparkling Water,47,test
+690,100,Bosc Pears,47,test
+696,39,Everything Bagels,27,control
+699,37,Organic Large Extra Fancy Fuji Apple,31,control
+719,73,Gluten Free 7 Grain Bread,27,test
+729,60,Half & Half,50,control
+732,41,Organic Orange Juice,13,test
+741,30,Honey Mustard and Onion Pretzels Pieces,25,test
+758,33,Apple Cinnamon GoGo Squeez,12,control
+762,46,Organic Garlic,29,test
+767,32,Green Dragon with Passion Fruit Tea,6,control
+768,34,Bag of Organic Bananas,31,control
+778,42,Sugarfree,23,test
+786,100,Chopped Spinach,62,control
+787,40,Pure & Smooth Green Tea,33,control
+812,47,Organic Blueberry Blitz Fruit & Veggie Smoothie Mashups,33,control
+818,70,Banana,34,control
+848,44,Classic White Bread,27,test
+849,30,Freshly Squeezed Orange Juice,23,test
+852,38,Banana,36,control
+854,84,Bag of Organic Bananas,34,control
+857,47,Organic Fat Free Milk,36,test
+858,30,Roasted Pine Nut Hummus,17,control
+868,86,Organic Whole Milk,54,control
+879,57,Bag of Organic Bananas,15,test
+880,50,Organic Whole Milk Strawberry Beet Berry Yogurt Pouch,35,control
+894,66,Lowfat Kefir Smoothie Blueberry,49,control
+898,53,Sliced White Mushrooms,11,control
+911,39,Bag of Organic Bananas,26,test
+914,33,Bag of Organic Bananas,16,control
+947,40,Organic Fuji Apple,24,test
+957,33,Organic Lacinato (Dinosaur) Kale,22,test
+958,38,Organic Strawberries,23,control
+961,49,Organic Gluten & Wheat Free Homestyle Waffles,30,control
+963,48,15 Grain Whole Grain Bread,29,control
+964,99,Bag of Organic Bananas,45,test
+968,59,Lowfat Peach Smoothie,33,test
+980,46,Organic Whole String Cheese,16,test
+984,51,Cracked Wheat Sourdough Loaf,16,control
+995,35,Lemon Yogurt,15,test
+999,38,Organic Reduced Fat 2% Milk,23,control
+1004,55,Organic Lacinato Kale,43,test
+1018,86,Purified Water,74,test
+1021,33,Cultured Low Fat Buttermilk,21,test
+1022,79,Gluten Free Covered Pretzels Yogurt,21,test
+1024,100,Liquid Egg Whites,59,test
+1027,48,Organic Gala Apples,23,test
+1036,32,Honeydew Melon,17,test
+1059,36,Lactose Free Low Fat Vanilla Yogurt,30,test
+1066,55,Banana,23,control
+1075,83,Brown Large Eggs Grade A,30,test
+1107,33,"Organic Milk Reduced Fat, 2% Milkfat",24,test
+1109,38,Cucumber Kirby,22,control
+1120,75,Organic Small Bunch Celery,60,test
+1130,50,Organic 2% Reduced Fat Milk,42,control
+1138,59,Shirataki Rice,25,test
+1141,31,Banana,9,test
+1150,48,Organic Whipping Cream,45,test
+1164,79,Banana,28,control
+1171,35,Natural Artisan Water,21,test
+1173,56,Organic Greek Lowfat Yogurt With Blueberries,40,control
+1177,51,Challah Bread,33,test
+1191,47,Low Moisture Part Skim Mozzarella String Cheese,14,control
+1197,78,Bag of Organic Bananas,53,control
+1199,44,Vegan Chocolate Chip Mini Muffins,29,control
+1202,62,Apples & Cinnamon Instant Oatmeal,30,control
+1203,35,Cold-Pressed Organic Grapefruit,14,control
+1213,43,Spring Water,39,test
+1240,62,Vanilla Skyr Style Yogurt,30,test
+1242,72,Organic Whole Milk,38,test
+1246,53,Honey Greek Yogurt,35,control
+1250,54,Frozen Broccoli Florets,19,test
+1264,50,Organic Reduced Fat Milk,34,test
+1271,49,Fire Roasted Salsa,31,test
+1280,31,Unsalted Pure Irish Butter,13,control
+1285,46,Russian River Pinot Noir,22,control
+1310,99,Whole Milk,31,control
+1359,48,Clementines,32,control
+1368,36,Diet Orange Soda,18,control
+1378,80,Organic Strawberries,44,control
+1381,31,Organic Blueberries,19,control
+1390,34,Banana,18,control
+1396,33,Organic Whole Milk,23,control
+1404,33,Spicy Kimchi,9,test
+1415,32,Organic Ezekiel 49 Bread Cinnamon Raisin,26,control
+1420,99,Diet Coke Caffeine Free Soda,38,test
+1424,67,Multigrain Bread,52,test
+1427,67,Garden Veggie Straws Sea Salt,28,control
+1428,100,Organic Lowfat 1% Milk,60,control
+1438,49,Romaine Hearts,22,control
+1480,43,Trail Mix,26,control
+1487,33,Chocolate Chip Cookies,6,control
+1509,43,"Bread, Gluten Free, Seeded",7,test
+1519,48,Organic Bagged Mini Dark Peanut Butter,17,control
+1526,48,Organic Kiwi,35,test
+1527,59,Organic Cucumber,41,control
+1531,49,Banana,25,test
+1537,74,Raspberries,31,control
+1538,55,Carb Balance Flour Tortillas,22,test
+1542,53,Hass Avocados,45,test
+1546,50,Raw Cashew Butter,19,control
+1547,37,Honey & Maple Turkey Breast,7,control
+1549,99,Organic Large Extra Fancy Fuji Apple,38,control
+1553,46,Bag of Organic Bananas,26,test
+1563,99,"Organic Pears, Peas and Broccoli Puree Stage 1",81,test
+1574,42,Organic Dark Chocolate with Sea Salt & Cracked Black Pepper,12,test
+1581,51,Organic Raw Kombucha Gingerade,33,control
+1584,72,Organic Tomato Cluster,29,test
+1615,50,Organic Sliced Crimini Mushrooms,28,control
+1621,45,Unsweetened Almondmilk,16,test
+1629,37,Revive Zero Vitamin Water,21,control
+1658,32,Diet Soda,9,test
+1666,99,4% Milkfat Small Curd Cottage Cheese,39,test
+1680,43,Organic Fruit Snacks,7,control
+1683,100,Organic Strawberries,61,test
+1699,53,Raspberries,37,control
+1704,48,Sparkling Pomegranate,46,control
+1705,34,Prosecco,26,control
+1716,63,Banana,51,test
+1721,46,Super Natural Organic Whole Milk,33,control
+1725,32,Organic Garlic,12,test
+1727,40,Pineapple Chunks,35,test
+1739,41,Banana,25,control
+1742,33,Banana,17,control
+1750,36,Grape White/Green Seedless,32,control
+1753,58,Lactose Free 2% Reduced Fat Milk,45,test
+1754,74,Red Peppers,47,test
+1759,61,Organic Pasture Raised Brown Eggs,43,control
+1776,83,Organic Coconut Water,38,test
+1789,35,Organic  Whole Milk,34,test
+1793,60,Organic Whole Grassmilk Milk,27,control
+1814,53,Deluxe Blueberry Bagels,31,control
+1815,34,Sweet Baguette,15,control
+1819,63,Organic Whole Milk,45,control
+1830,31,Spring Water,21,control
+1833,30,Lactose Free Yogurt Plain,20,test
+1837,88,Michigan Organic Kale,57,test
+1850,61,Organic Original Almond Milk,59,control
+1862,43,Reduced Fat 2% Milk,32,control
+1866,97,Organic Pack Peasant Bread,70,control
+1868,99,Duck Eggs,42,control
+1909,34,Natural Creamy Peanut Butter,14,test
+1930,62,Half And Half Ultra Pasteurized,36,test
+1943,57,Bag of Organic Bananas,38,test
+1948,52,Organic Baby Arugula,24,control
+1951,35,Organic Reduced Fat Omega-3 Milk,18,control
+1958,100,"Organic Milk Reduced Fat, 2% Milkfat",52,control
+1971,56,Unsalted Butter,15,test
+1983,55,Organic Plain Whole Milk Yogurt,21,test
+1990,42,Banana,23,test
+1992,35,Organic Whole Milk,24,test
+2011,48,Cultured Pasture Butter,26,control
+2022,35,Yellow Onions,27,test
+2024,49,Jalapeno,15,control
+2031,37,Banana,16,test
+2041,31,Total 0% with Honey Nonfat Greek Strained Yogurt,21,control
+2049,64,Organic Avocado,24,test
+2055,86,Spring Water,50,control
+2057,36,Natural Artesian Water,27,control
+2075,31,Organic Granny Smith Apple,23,control
+2094,72,Organic Romaine Leaf,37,test
+2100,48,Shredded Parmesan,20,control
+2102,33,Pike Place Roast Medium Keurig Brewed K-Cups,10,test
+2130,39,Unsweetened Original Almond Breeze Almond Milk,22,control
+2157,70,Organic Half & Half,30,test
+2162,32,Total 2% All Natural Greek Strained Yogurt with Honey,12,test
+2163,53,Organic Unsweetened Vanilla Almond Milk,36,control
+2166,38,Bag of Organic Bananas,21,test
+2183,43,Banana,35,control
+2192,36,Organic Bread with 21 Whole Grains,17,control
+2193,68,Organic Baby Spinach,31,test
+2211,55,Extra Strong Dark Chocolate,40,test
+2215,60,Banana,26,test
+2225,81,Organic Whole Milk,42,control
+2231,99,Organic Vanilla Almond Milk,64,test
+2233,34,Passionfruit Sparkling Water,14,control
+2241,79,Organic Quinoa Dark Chocolate Bar,58,control
+2245,42,"Milk, Organic, Vitamin D",39,control
+2253,41,Sparkling Mineral Water,14,control
+2258,48,Organic Hass Avocado,29,test
+2262,37,100% Goats Milk,15,control
+2304,48,Organic Fat Free Milk,29,test
+2307,98,"Milk, Reduced Fat, 2% Milkfat",44,control
+2310,51,Banana,33,test
+2335,44,Banana,42,test
+2344,90,Soft Pretzel Mini Buns,47,control
+2362,31,Organic Reduced Fat Milk,17,control
+2365,36,Lime Sparkling Water,13,test
+2383,69,Popcorn,44,test
+2387,99,0% Greek Strained Yogurt,69,control
+2396,50,Fresh European Style Baby Spinach,30,control
+2397,42,Banana,42,test
+2399,85,Sour Batard,43,test
+2405,100,Very Berry Flavor Sparking Mineral Water,62,test
+2409,49,Fresh CA Grown Eggs,14,test
+2415,37,Mandarin Orange with Electrolytes & Vitamins Water Beverage,27,control
+2428,33,Organic Reduced Fat Milk,29,test
+2436,31,Grade A Large White Eggs,12,control
+2439,30,Banana,23,control
+2440,46,Total 0% with Honey Nonfat Greek Strained Yogurt,33,control
+2456,53,Total Greek Strained Yogurt,48,test
+2468,68,Gluten Free Multigrain Bread,23,control
+2495,34,Organic Berry Goodness Juice,18,control
+2496,55,Red Bell Pepper,36,control
+2505,44,Classic Round Crackers,34,test
+2518,33,Chicken Apple Sausage Egg White Breakfast Burrito,20,test
+2531,63,Mexican Casserole Bowl,17,control
+2535,70,100% Lactose Free Fat Free Milk,62,test
+2539,50,100% Raw Coconut Water,43,control
+2546,43,Bag of Organic Bananas,42,test
+2556,42,Dried Mangos,16,test
+2561,43,Organic Hass Avocado,27,test
+2562,48,Packaged Grape Tomatoes,29,control
+2566,35,Hass Avocado Bag,21,control
+2591,41,Organic Whole Milk with DHA Omega-3,12,control
+2604,98,Petit Suisse Fruit,74,control
+2609,43,Organic Gluten Free Cranberry Crunch Bar,24,test
+2611,51,Root Beer,19,test
+2638,36,Bag of Organic Bananas,28,test
+2646,61,"Milk, Organic, Vitamin D",45,test
+2650,63,Peach Mango Iced Green Tea,47,control
+2658,71,Low Fat Strawberry Milk,16,test
+2663,77,Coconut Water,32,control
+2676,52,"Kombucha, Organic Raw, Citrus",43,control
+2688,82,Slim Can Lime Sparkling Natural Mineral Water,29,control
+2689,36,Organic Peach Oo La Long Tea,12,control
+2690,47,Organic Avocado,30,control
+2701,31,Cage Free Large White Eggs,12,test
+2735,89,Organic Mexican Blend Finely Shredded Cheese,44,test
+2764,47,Mild Salsa Roja,43,control
+2765,55,"Almondmilk Creamer, Vanilla",42,control
+2785,54,Bag of Organic Bananas,39,control
+2807,54,Sparkling Mineral Water,48,control
+2821,31,Organic Cream Cheese Bar,7,control
+2825,39,Organic Strawberries,11,test
+2847,38,Organic Strawberries,23,test
+2849,45,Natural Spring Water,42,control
+2882,30,15 Grain Whole Grain Bread,13,test
+2899,63,"French Baguettes, Take & Bake, Twin Pack",27,test
+2903,54,Orange Juice,27,control
+2926,74,Ice Cream Chocolate Peanut Butter Cup,31,control
+2930,42,Smartwater,19,test
+2936,49,Lime Sparkling Water,21,test
+2939,71,Organic  Whole Milk,43,control
+2951,52,Fat Free Strawberry Yogurt,35,control
+2952,48,Pure Irish Butter,23,control
+2964,60,Italian Sparkling Mineral Water,28,control
+2967,43,Organic Lacinato (Dinosaur) Kale,25,control
+2974,42,"Coconut Water, Pure Organic",29,test
+2976,33,Organic Baby Spinach,8,test
+2991,60,Organic Whole Milk,58,control
+3007,32,Spring Water,5,test
+3011,74,Non Fat Raspberry Yogurt,54,control
+3016,91,Vitamin D Organic Milk,33,control
+3067,46,Grilled Salmon,30,control
+3097,32,Dairy Milk Fine Chocolate Candy Bar,20,test
+3098,30,Banana,11,control
+3103,39,Bag of Organic Bananas,15,control
+3120,31,Banana,16,test
+3148,57,Roma Tomato,47,test
+3154,52,Banana,41,control
+3167,65,Organic Hass Avocado,36,control
+3184,34,Diet Coke,15,test
+3190,60,House Blend Deep Roast Ground Coffee,24,test
+3194,49,Organic Whole String Cheese,28,control
+3199,63,Organic Avocado,55,control
+3210,38,Organic Apple Juice,17,test
+3213,38,Organic Low Sodium Chicken Cooking Stock,36,test
+3219,52,Best Cinnamon Bread,30,control
+3221,58,Organic Baby Spinach,20,control
+3226,36,Large Lemon,28,control
+3228,60,Organic Coconut Water,17,control
+3252,42,Sparkling Mineral Water,24,control
+3255,91,Banana,57,test
+3256,48,Organic Whole Milk,35,test
+3269,82,Organic Whole Milk,75,control
+3273,52,Protein Energy Bar Original Peanut Butter Fudge,44,control
+3275,33,Lactose Free Half & Half,11,control
+3277,46,Enlighten Mint Organic,9,control
+3283,44,Organic Medium Brown Eggs,18,control
+3306,30,Diet Orange Diet CSD,30,test
+3309,35,Ground Turkey Breast,31,test
+3350,44,Peanut Butter Chocolate Chip Meal Bar,39,control
+3375,46,Sparkling Raspberry Seltzer,15,control
+3377,100,Benchbreak Chardonnay,91,test
+3378,32,"Milk, Organic, Vitamin D",21,test
+3384,36,Mango Tango Fruit Smoothie Blend,12,test
+3394,64,Large Alfresco Eggs,20,test
+3412,58,Original Red Twists,37,test
+3417,36,Guacamole,34,test
+3418,82,Organic  Whole Milk,44,test
+3422,52,Boneless Skinless Chicken Breasts,23,test
+3431,37,Watermelon Chunks,21,control
+3435,40,Bag of Organic Bananas,36,control
+3438,62,Coffee Ice Cream,41,control
+3439,63,Unsalted Butter,39,test
+3452,45,Organic Whipping Cream,15,control
+3456,42,Purified Water,25,test
+3464,59,Hass Avocados,45,test
+3475,92,Half And Half,33,control
+3484,62,Organic Pure Concord Grape Juice,30,test
+3485,44,Vitamin D Milk,24,control
+3490,72,Unsalted Pure Irish Butter,25,control
+3492,48,Quaker Life Cinnamon Cereal,30,test
+3500,43,Gourmet Pizza Three Cheese Gluten Free,20,test
+3503,41,Bag of Organic Bananas,17,test
+3509,71,Authentic French Brioche Hamburger Buns,54,test
+3510,64,Italian Sparkling Mineral Water,27,control
+3514,99,Kiwi,32,control
+3530,74,Sparkling Mineral Water,46,test
+3536,65,Yotoddler Organic Pear Spinach Mango Yogurt,53,control
+3538,44,Organic Raspberries,13,control
+3549,37,Bag of Organic Bananas,29,control
+3558,47,Organic Broccoli Florets,27,control
+3579,80,Half & Half,40,control
+3584,65,Organic Baby Carrots,34,test
+3593,84,Uncured Hickory Smoked Sunday Bacon,39,control
+3597,53,Banana,46,control
+3600,50,Frozen Peaches,45,test
+3612,64,Organic Avocado,18,control
+3614,41,Cage Free Large White Eggs,32,test
+3621,32,Light and Lean Mattar Paneer,30,test
+3626,41,Limes,22,test
+3634,40,Fresh Cut Cauliflower & Broccoli Steam in Bag,32,test
+3648,36,Unsweetened Almondmilk,30,test
+3652,41,Blueberries,27,test
+3663,54,Organic Reduced Fat Milk,51,control
+3667,38,Mineral Water,14,control
+3690,36,Banana,9,test
+3718,47,0% Greek Strained Yogurt,36,control
+3725,35,Organic Avocado,24,test
+3729,38,ProBugs Whole Milk Kefir Orange Creamy Crawler,35,control
+3733,30,Banana,24,control
+3741,41,Phish Food® Ice Cream,26,test
+3742,100,Organic Milk,64,control
+3745,92,Organic Romaine Lettuce,51,control
+3762,46,Bag of Organic Bananas,24,test
+3770,58,Half And Half Cream,48,control
+3782,51,Diet Coke Soda,23,test
+3787,86,Organic Fat Free Milk,60,test
+3794,87,Presliced Everything Bagels,38,test
+3807,45,Banana,38,test
+3827,68,Master Brew Kombucha Lavender Melon,16,control
+3830,85,Organic Hass Avocado,72,control
+3838,49,Organic Fuji Apple,21,test
+3849,32,Banana,11,control
+3856,62,Red Mango,47,test
+3880,81,Sparkling Lemon Water,50,control
+3890,71,Natural Spring Water,25,test
+3905,56,"Light & Fit Greek Yogurt, Cherry",41,test
+3920,33,0% Greek Strained Yogurt,11,control
+3939,48,Whole Milk,25,test
+3950,33,Pure Water,29,test
+3960,100,Organic Strawberries,39,control
+3964,59,"Milk, Organic, Vitamin D",42,test
+3974,49,Grade AA Extra Large Eggs,24,test
+3980,39,Organic Variety Pack,13,test
+3985,46,100% Raw Coconut Water,31,test
+4000,43,Diet Tonic Water,18,test
+4006,42,Banana,24,test
+4021,42,100% Whole Wheat Bread,22,control
+4030,41,Organic YoKids Smoothie Strawberry Banana Lowfat Yogurt,27,test
+4067,71,Original Nooks & Crannies English Muffins,24,control
+4072,71,Organic Garlic,30,control
+4076,48,Banana,24,test
+4087,46,Organic Gala Apples,32,control
+4090,53,Vitamin D Whole Milk,40,control
+4098,38,Organic Reduced Fat Milk,28,test
+4099,35,Sparkling Water Grapefruit,19,control
+4115,47,Banana,36,control
+4118,45,Spring Water,29,test
+4119,58,Bag of Organic Bananas,48,test
+4122,40,Soda,31,control
+4130,45,Cage Free Large White Eggs,20,test
+4163,30,Bag of Organic Bananas,10,test
+4166,51,Roasted & Salted Almonds,48,test
+4170,49,PlusShot Blueberry Acai Probiotic Juice Drink,14,test
+4176,41,Organic Grape Tomatoes,18,control
+4177,49,Yellow Onions,18,test
+4187,41,Zero Calorie Cola Soda,19,test
+4192,61,Unsweetened Vanilla Almond Milk,45,control
+4193,41,Organic Red Onion,22,test
+4199,100,Bag of Organic Bananas,50,control
+4208,41,Roasted & Salted Almonds,31,test
+4220,36,Total 0% Nonfat Plain Greek Yogurt,20,test
+4228,37,Creamy Almond Butter,18,control
+4229,99,Organic Raspberries,49,test
+4238,45,Rainbow Bell Peppers,16,test
+4267,49,Bag of Organic Bananas,34,test
+4281,96,Organic Kale Greens,49,control
+4284,100,Chocolate Peanut Butter Nutrition Bar,58,test
+4294,51,Organic  Whole Milk,14,control
+4297,58,Peanut Butter Chocolate Chip Macrobar,38,control
+4299,37,Grade A Large White Eggs,22,control
+4326,54,Organic Reduced Fat 2% Milk,53,test
+4335,49,Dark Chocolate Coconut Bites,32,control
+4345,82,Carrots,44,test
+4347,36,Bag of Organic Bananas,15,control
+4356,100,Defense Up Cold Pressed Fruit Smoothie,71,control
+4358,51,Organic Reduced Fat Omega-3 Milk,33,control
+4362,34,Limes,16,test
+4363,66,Organic Baby Spinach,37,test
+4368,57,Banana,51,test
+4369,30,Organic Plain Greek Whole Milk Yogurt,27,control
+4375,52,Organic Kiwi,17,control
+4382,99,Organic Reduced Fat Milk,33,test
+4399,41,Toffee & Sea Salt Milk Chocolate Bar,27,test
+4400,48,Organic Plain Whole Milk Yogurt,36,test
+4413,37,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese,24,test
+4415,42,Fruit and Nut Bar - Peanut Butter Chocolate Chip,27,test
+4424,68,Mozzarella String Cheese,35,test
+4427,42,Carving Board Slow Cooked Ham,16,test
+4441,61,Whipped Cream Cheese Spread,24,control
+4442,62,Organic Avocado,24,test
+4457,49,Organic Whole Milk,26,test
+4474,37,Organic Gala Apples,21,control
+4490,99,Mini Seedless Cucumbers,88,control
+4499,100,Sweet Baguette,65,test
+4503,68,Banana,37,control
+4527,30,Organic Avocado,15,test
+4530,60,Organic Hass Avocado,23,test
+4531,55,Organic Strawberries,25,test
+4541,57,Vitamin D Organic Whole Milk,35,test
+4543,46,Organic Large Extra Fancy Fuji Apple,26,test
+4544,51,Organic 2% Reduced Fat Milk,37,test
+4548,44,Natural Artesian Bottled Water,42,test
+4557,58,Organic & Raw Strawberry Serenity Kombucha,22,control
+4558,100,Banana,60,test
+4562,40,Organic Large Grade AA Omega-3 Eggs,19,test
+4563,100,Avocado Roll,57,control
+4578,31,Diet Coke Soda,25,test
+4591,40,Green Tea With Ginseng and Honey,25,test
+4596,81,Grade A Goat Milk,62,test
+4599,47,Banana,46,test
+4602,38,Roasted Tomato Salsa,13,control
+4610,52,Banana,42,test
+4613,32,Bag of Organic Bananas,26,test
+4617,52,Shredded Low-Moisture Part-Skim Mozzarella Cheese,36,test
+4625,88,Organic Lactose Free 1% Lowfat Milk,70,test
+4629,39,Golden Oreo Thins,16,test
+4631,32,Sensitive Skin Experts Cleansing Facial Wipes,14,test
+4645,81,Oven Roasted Turkey,81,control
+4646,33,Organic Bagged Mini Dark Peanut Butter,20,test
+4647,45,Banana,36,test
+4650,74,Diet Peach Tea,72,control
+4655,37,Seedless Cucumbers,14,test
+4659,59,Bag of Organic Bananas,33,test
+4671,71,Gluten Free White Sandwich Bread,30,test
+4674,33,Cold-Brew Black Coffee,27,test
+4693,99,Banana,61,control
+4694,89,Organic Blackberries,62,control
+4701,47,Organic Alfalfa Sprouts,33,test
+4705,76,Total 0% Nonfat Greek Yogurt,48,control
+4711,100,Whole Milk,76,control
+4724,90,Italian Sparkling Mineral Water,47,test
+4743,59,Cucumber Kirby,21,test
+4752,71,Organic Whole Milk,46,control
+4758,36,Bag of Organic Bananas,25,control
+4762,55,Organic Homestyle Mini Waffles,42,control
+4764,100,Strawberries,71,control
+4785,57,Organic Reduced Fat Milk,47,test
+4789,54,Banana,33,test
+4807,99,Original Pure Creamy Almond Milk,47,control
+4825,47,Organic Kiwi,35,test
+4827,38,Grassmilk 2% Reduced Fat Milk,24,test
+4839,52,Bag of Organic Bananas,21,control
+4843,57,Organic Raw Multigreen Kobmbucha,46,control
+4844,35,Organic Strawberries,28,test
+4860,35,Pulp Free Orange Juice,21,test
+4865,41,80  Vodka Holiday Edition,25,test
+4869,32,Chardonnay,29,test
+4886,46,Organic Mint Bunch,26,control
+4934,50,Petit Suisse Fruit,28,test
+4941,57,Organic Lowfat Yogurt Banana Vanilla,32,control
+4944,46,Organic Mango Slices,37,control
+4949,54,Banana,31,test
+4966,45,Banana,34,test
+4967,34,Banana,22,control
+4968,38,Sparkling Water Grapefruit,23,control
+4974,47,Organic Raspberry Mate Energy Drink,44,test
+5000,44,Sweet Kale Salad Mix,43,control
+5003,100,Organic Whole Milk,58,test
+5025,71,Banana,31,control
+5042,36,Bag of Organic Bananas,11,test
+5051,59,Banana,36,control
+5058,35,Organic Cashew Nondairy Blueberry Yogurt,10,control
+5070,35,Organic Large Brown Eggs,20,test
+5095,45,Thirst Quencher Caffeine Free Naturally Flavored Citrus Soda,28,control
+5101,99,Authentic French Brioche,50,control
+5103,64,Bag of Organic Bananas,32,control
+5108,34,Quiche Lorraine,8,control
+5133,34,Organic Whole Milk,14,control
+5148,42,Brass Tacks Blend Whole Bean Coffee,12,test
+5168,88,Organic Reduced Fat Milk,57,control
+5174,32,Bag of Organic Bananas,29,control
+5183,31,Frontier Whiskey,14,test
+5189,66,Organic Avocados,43,control
+5191,99,Lemon Italian Sparkling Mineral Water,49,test
+5193,35,Caffe Verona Dark Keurig Brewed K-Cups Ground Coffee,32,test
+5195,42,Organic Frosted Maple Brown Sugar Toaster Pastries,36,control
+5198,56,Organic Whole Milk,20,control
+5199,99,Organic Whole Milk with DHA Omega-3,58,control
+5209,64,Fresh Cauliflower,48,control
+5210,31,Organic Hass Avocado,16,control
+5211,67,Sweet Baguette,29,test
+5217,34,Banana,16,control
+5221,43,Fat Free Milk,10,test
+5226,38,Grape White/Green Seedless,15,control
+5228,55,Italian Sparkling Mineral Water,40,test
+5236,59,Bartlett Pears,12,control
+5237,68,Large Alfresco Eggs,27,control
+5253,98,Organic Hass Avocado,42,control
+5256,32,7 Whole Grain Honey Puffs Cereal,11,control
+5260,44,Original Shoestring Potatoes,35,test
+5266,36,Wild Cherry Cola,30,control
+5278,79,Organic Milk,34,control
+5283,77,French Vanilla Creamer,65,test
+5285,57,Bag of Organic Bananas,29,test
+5287,74,Total 2% All Natural Greek Strained Yogurt with Honey,32,control
+5288,42,Non Fat Raspberry Yogurt,35,control
+5293,39,Vitamin D Organic Milk,32,control
+5296,99,Banana,54,test
+5301,51,Cheez-It Cheddar Cracker,50,test
+5303,32,Banana,24,control
+5304,31,1% Low Fat Milk,22,test
+5316,31,Organic Strawberries,6,control
+5325,62,Frozen Organic Wild Blueberries,45,control
+5328,53,Grain Free Turkey & Salmon Formula Cat Food,48,test
+5329,100,Unsweetened Original Almond Breeze Almond Milk,43,control
+5330,46,"Milk, Organic, Vitamin D",31,test
+5335,43,Banana,32,control
+5338,47,Bag of Organic Bananas,34,control
+5341,34,Raspberries,27,test
+5342,65,Bag of Organic Bananas,39,control
+5357,58,Banana,28,test
+5360,57,6 OZ LA PANZANELLA CROSTINI ORIGINAL CRACKERS,49,control
+5361,55,Organic Extra Firm Tofu,26,test
+5363,72,Reduced Fat 2% Milk,45,control
+5367,35,Bag of Organic Bananas,19,test
+5377,82,Country Potato Bread,24,control
+5382,58,Lime Sparkling Water,41,control
+5392,39,Bartlett Pears,10,test
+5408,30,Organic Whole Milk,19,test
+5410,38,Organic Mango Slices,16,control
+5440,72,Organic Large Brown Grade AA Cage Free Eggs,30,control
+5443,49,Organic Chicken Breast In Water,22,control
+5449,99,Organic Strawberries,34,control
+5458,47,Banana,32,control
+5469,57,Soy Powder Infant Formula,33,control
+5483,45,Whole Milk Greek Blended Vanilla Bean Yogurt,33,test
+5487,36,Myoplex Original Chocolate Fudge Protein Shake,11,test
+5489,33,100% Whole Wheat Bread,11,control
+5491,43,"Arugula, Kale, Apple, Romaine, Celery, Cucumber, Lemon, Ginger Cold Pressed Juice",41,control
+5493,80,Vitamin D Organic Whole Milk,63,control
+5500,56,Soda,44,control
+5502,51,Whole Milk With Vitamin D,28,control
+5510,52,Organic Baby Spinach,32,test
+5519,53,Ready Pac Salad Santa Fe Caesar Bowls,47,test
+5540,46,Bag of Organic Bananas,27,control
+5541,50,Banana,46,test
+5547,42,Mineral Water,28,control
+5557,48,Organic Raspberries,13,control
+5558,35,Bag of Organic Bananas,23,control
+5562,47,Vanilla Almond Breeze Almond Milk,23,test
+5580,41,Red Raspberries,25,control
+5588,92,Sinfully Sweet Campari Tomatoes,91,test
+5589,65,English Muffins,41,control
+5599,53,Red Vine Tomato,46,test
+5602,37,Purified Water,21,control
+5607,32,Bag of Organic Bananas,22,test
+5614,39,Gourmet Tomato Medley,23,control
+5634,44,Organic Lowfat 1% Milk,22,control
+5639,63,Banana,35,control
+5659,40,Potato Chips Sweet Potato,15,test
+5665,94,Organic Gala Apples,78,control
+5669,71,Organic Egg Whites,60,control
+5680,49,Hint Of Sea Salt Almond Nut Thins,25,control
+5684,50,Organic Whole Milk,47,control
+5692,70,100% Whole Wheat Bread,45,control
+5705,55,"Juice Beverage, Cold Pressed, Kale Apple Ginger Romaine Spinach Cucumber Celery Parsley Lemon",37,test
+5712,43,2% Reduced Fat DHA Omega-3 Reduced Fat Milk,30,test
+5715,54,Organic Raspberries,38,test
+5721,41,Organic Avocado,32,test
+5728,62,Yellow Soft Corn Tortillas 8 Count,46,control
+5731,38,Banana,32,test
+5732,100,Dark with 70% Cacao Content Organic Chocolate Bar,49,control
+5738,32,Plain Greek Yogurt,30,control
+5745,38,Banana,31,test
+5756,76,Banana,18,control
+5760,76,Natural Artesian Water,76,control
+5769,45,Michigan Organic Kale,14,test
+5776,61,Cultured Low Fat Buttermilk,39,test
+5802,52,Purified Water,15,control
+5809,47,Sensitive with Iron Infant Formula,31,test
+5814,40,Electrolyte Enhanced Water,32,control
+5847,37,Dried Mango,26,test
+5848,50,Bag of Organic Bananas,37,test
+5854,32,Organic Baby Spinach,17,control
+5860,66,Mini Seedless Cucumbers,26,control
+5886,57,Gluten Free Original Granola,26,control
+5891,45,Special K Red Berries Cereal,18,control
+5897,54,Organic Whole Milk,32,test
+5900,66,Coconut Dark Chocolate Bar,40,test
+5912,100,Organic Hass Avocado,41,test
+5921,63,Challah Bread,46,control
+5927,61,Organic Apple Sauce + Fruit & Veggie Carroty Chop Mashups,39,test
+5932,100,Flavor Blasted Xtra Cheddar Goldfish Crackers,37,control
+5939,31,Authentic French Brioche,8,control
+5950,47,Watermelon Chunks,28,test
+5953,41,Organic Garlic,12,control
+5955,47,Bag of Organic Bananas,28,control
+5956,49,Banana,44,test
+5960,47,No Sugar Added The Original Fudge Pops,39,test
+5961,44,Stage 1 - Just Prunes,30,control
+5963,41,Spring Water,37,control
+5971,77,Organic Banana Baby Breakfast (from 6 Months),22,control
+5992,41,Organic Whole Milk,11,control
+5994,55,Spring Water,36,control
+6012,56,Organic Unsweetened Vanilla Almond Milk,36,test
+6015,57,Beer,31,test
+6045,99,Organic Coconut Water,35,test
+6060,45,Large Alfresco Eggs,18,test
+6066,35,Gluten-Free Multi Seed Rice Bread,9,test
+6069,36,Orange Juice,27,control
+6072,35,Clementines,6,control
+6084,61,Ice Bag,20,test
+6087,56,Pulp Free Orange Juice,29,control
+6094,72,Organic Reduced Fat 2% Milk,19,test
+6118,74,Total Greek Strained Yogurt,32,test
+6131,50,Almond Breeze Original Almond Milk,25,test
+6144,44,Organic Hass Avocado,29,control
+6158,45,"Cold-pressed, Deliciously Hydrating Watermelon Water",29,test
+6175,95,Banana,65,test
+6186,47,Hazelnut Bromstad Design Liquid Coffee Creamer,7,test
+6188,54,Carb Balance Flour Tortillas,13,test
+6193,47,Breakfast Burrito With Potatoes Jack & Cheddar Cheese & Meatless Chorizo,42,control
+6208,30,Nutrient Enhanced Water,14,test
+6250,56,Soda,51,control
+6254,46,Organic Extra Large Eggs,17,control
+6256,36,Banana,7,control
+6268,100,Sparkling Water Grapefruit,74,test
+6271,61,Spring Water,54,test
+6275,53,Cucumber Kirby,9,control
+6290,50,Banana,32,control
+6291,44,Bag of Organic Bananas,32,control
+6299,39,Broccoli Medley,16,control
+6317,36,Apple Honeycrisp Organic,27,control
+6325,61,Banana,28,test
+6330,94,Organic Homogenized Whole Milk,58,control
+6340,46,Bartlett Pears,20,test
+6358,32,Banana,10,control
+6360,61,Key Limes,21,control
+6363,54,Organic Baby Spinach,39,control
+6364,48,Banana,15,control
+6372,56,Banana,10,test
+6375,43,Organic Whole Milk,29,test
+6378,32,"Clementines, Bag",23,control
+6391,53,Curate Melon Pomelo Sparking Water,26,control
+6398,100,Electrolyte Enhanced Water,61,control
+6402,35,Spring Water,34,control
+6409,42,Black Forest Berry Caffeine-Free Tea,42,test
+6417,72,1% Low Fat Milk,40,control
+6433,65,Banana,45,control
+6441,38,Variety Pack Hard Cider,9,control
+6448,100,Febreze Meadows & Rain Scent Multi Purpose Cleaner,37,control
+6449,56,Bag of Organic Bananas,45,control
+6457,36,Organic Raw Kombucha Gingerade,21,test
+6467,67,Bag of Organic Bananas,41,control
+6479,40,Organic Whole Milk,10,test
+6492,88,Black Forest Berry Caffeine-Free Tea,31,control
+6494,100,Ciabatta,37,control
+6505,57,Hummus Roasted Pepper,19,test
+6512,49,Fruit Punch Sports Drink,39,control
+6515,31,Uncured Hickory Smoked Sunday Bacon,10,control
+6522,36,Organic Butternut Squash,36,control
+6527,51,Grow & Gain Chocolate Shake Nutritional Drink,27,test
+6532,58,Bag of Organic Bananas,40,control
+6537,38,Bagel Thins Everything,13,test
+6541,41,Organic Greek Plain Nonfat Yogurt,20,test
+6546,45,Goat Milk Yogurt Vanilla,31,control
+6562,43,Lemon Sparkling Mineral Water,31,test
+6567,48,Iced Oatmeal Cookie Kid Z Bar,34,control
+6568,39,Vegan Sour Cream & Onion Kettle Chips,26,control
+6575,48,Sparkling Mineral Water,28,test
+6587,41,Vanilla Chocolate Almond Crunch Bar,34,test
+6608,30,Limes,6,control
+6623,33,Bag of Organic Bananas,16,test
+6624,46,Brown Fertile Large Grade AA Eggs,20,control
+6626,52,Strawberry Banana Juice,51,control
+6633,40,Semi-Sweet Chocolate Premium Baking Chips,20,test
+6634,38,Zero Calorie Cream Soda,16,control
+6650,78,Michigan Organic Kale,32,control
+6655,58,Cheese Pizza Snacks,26,control
+6661,34,Coffee Ice Cream,21,control
+6664,47,Banana,19,test
+6672,49,Boneless Skinless Chicken Breasts,41,test
+6692,56,Organic Whole Milk,37,test
+6693,57,Whole Milk,26,test
+6704,33,Organic Raspberry Lowfat Yogurt,27,test
+6705,37,Icelandic Style Skyr Non-Fat Strained Plain Yogurt,16,test
+6710,100,"Tortilla Chips, Clasico, Jalapeno Lime",66,test
+6714,47,Sparkling Lemon Water,37,control
+6721,42,Organic Zucchini,16,control
+6733,35,Bag of Organic Bananas,33,control
+6734,45,Lemon Sparkling Water,28,test
+6738,58,Dha Omega 3 Reduced Fat 2% Milk,26,test
+6747,65,Green Bell Pepper,47,control
+6748,45,Diet Coke Soda,28,test
+6754,84,16 oz Cold Cups,43,test
+6756,51,Organic Hass Avocado,19,test
+6765,49,Low Fat 1% Milk,40,test
+6768,42,Bartlett Pears,38,control
+6774,37,1% Lowfat Milk,27,control
+6778,52,Strawberry Rhubarb Yogurt,30,control
+6779,34,Purified Water,13,control
+6801,80,100% Natural Spring Water,66,test
+6803,48,Reduced Fat 2% Milk,20,control
+6806,39,Baguette,15,test
+6808,74,Ground Turkey,57,test
+6810,67,Organic Hass Avocado,39,control
+6821,75,Whole Organic Omega 3 Milk,37,control
+6828,31,Organic Cripps Pink Apples,25,test
+6895,64,Organic Yellow Onion,23,test
+6897,50,Banana,25,test
+6901,58,Organic Red Bell Pepper,40,control
+6905,48,Spring Water,29,control
+6907,58,Chai Classic Latte Black Tea Concentrate,24,control
+6910,36,Oven Roasted Turkey Breast,29,control
+6915,54,Mineral Water,37,control
+6921,61,Organic Ground Turkey,35,test
+6933,86,Banana,39,test
+6937,65,Pure Sparkling Water,37,control
+6956,69,Natural Chunky Peanut Butter,30,control
+6969,31,Electrolyte Enhanced Water,21,test
+6978,99,"Coconut Water, Real",55,control
+6986,31,Uncured Slow Cooked Ham,19,test
+6987,34,Organic Broccoli Crowns,15,test
+6993,67,Unsweetened Original Almond Breeze Almond Milk,28,control
+7013,66,Bag of Organic Bananas,43,test
+7015,56,Paper Towel,35,control
+7019,40,Banana,38,control
+7025,60,Raspberries,32,control
+7027,46,Nutz Over Chocolate,40,control
+7038,36,Bag of Organic Bananas,14,test
+7039,68,Bag of Organic Bananas,18,test
+7045,68,Banana,36,control
+7058,33,Banana,21,control
+7075,31,Banana,14,test
+7077,53,Bag of Organic Bananas,31,test
+7079,33,Red Raspberries,25,test
+7103,34,Organic Large Grade AA Brown Eggs,23,control
+7119,37,Lemon-Lime Fridge Pack Soda,13,control
+7120,100,Organic Raspberries,49,control
+7130,35,Original Restaurant Style Tortilla Chips,10,control
+7139,45,Organic Reduced Fat 2% Milk,37,control
+7144,47,Pomegranate Terere,38,test
+7149,38,Natural Lemon Flavor Sparkling Mineral Water,16,control
+7151,41,Cabernet Sauvignon,26,control
+7175,99,Coconut Yogurt,48,control
+7185,56,Organic Raspberries,35,test
+7191,71,Heirloom Tomato,24,control
+7205,60,Banana,32,test
+7207,34,Bag of Organic Bananas,29,test
+7209,52,100% Raw Coconut Water,41,control
+7228,38,Organic Lactose Free Whole Milk,22,test
+7233,46,Jalapeno Peppers,25,test
+7244,33,Bag of Organic Bananas,22,test
+7245,88,Original Rich Chocolate Complete Nutritional Drink,50,control
+7262,36,Chicken-Free Strips Seasoned,10,control
+7267,86,Red Raspberries,42,test
+7278,100,Organic Creamy Milk Chocolate,46,control
+7279,99,Organic Baby Arugula,50,test
+7285,41,Organic Whole Milk French Vanilla Yogurt,30,test
+7287,67,Gluten Free Chocolate Chip Cookies,19,test
+7293,37,Banana,23,control
+7304,41,Organic Lactose Free Whole Milk,34,control
+7309,55,Strawberry Watermelon Sparkling Water,43,control
+7310,40,Organic Grape Tomatoes,29,control
+7314,66,Organic Whole Milk,37,test
+7321,49,Organic Unsweetened Almond Milk,18,control
+7326,45,Banana,34,test
+7327,47,Puffs Flamin' Hot Cheese Flavored Snacks,28,test
+7331,42,Banana,15,test
+7336,45,Blueberry on the Bottom Nonfat Greek Yogurt,36,control
+7337,32,Natural Artesian Bottled Water,9,test
+7338,57,Water,43,test
+7355,68,Organic Roma Tomato,39,control
+7358,59,100% Natural Spring Water,25,control
+7385,100,Organic  Whole Milk,47,test
+7386,55,Strawberries,39,control
+7392,46,Cocktail Style Cubes  Spring Water Ice,36,test
+7402,70,Grape White/Green Seedless,38,control
+7407,46,Banana,13,control
+7420,50,Spring Water,19,control
+7427,39,Green Peas No Salt Added,20,test
+7431,31,100% Raw Coconut Water,10,test
+7440,99,Natural Spring Water,64,test
+7465,30,Bag of Organic Bananas,6,test
+7470,42,Split Top Wheat Bread,9,control
+7497,36,Banana,26,control
+7503,44,Banana,41,test
+7543,45,Whole Vitamin D Milk,26,control
+7557,39,Organic Whole Milk,22,control
+7562,66,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese,38,test
+7563,62,2% Reduced Fat DHA Omega-3 Reduced Fat Milk,23,test
+7565,68,Banana,48,test
+7572,51,Orange Bell Pepper,27,test
+7580,39,Organic Grade A Free Range Large Brown Eggs,14,control
+7584,56,Bag of Organic Bananas,27,control
+7600,53,Banana,53,test
+7601,30,Boneless Skinless Chicken Breasts,14,test
+7608,48,100% Natural Spring Water,44,control
+7641,46,Large Alfresco Eggs,34,control
+7647,41,"Milk, Organic, Vitamin D",17,control
+7649,33,Italian Batard,23,test
+7655,40,Canine Cuisine Wet Dog Food Grilled Chicken Top Sirloin,26,test
+7658,100,Organic Nuts & Vanilla Beverage,62,control
+7660,57,Bag of Organic Bananas,16,control
+7665,39,Organic Lowfat Plain Yogurt,11,control
+7685,32,Imported Mineral Water,28,control
+7701,32,Organic Lowfat 1% Milk,23,control
+7709,40,Organic Dried Blueberries,12,test
+7711,46,Natural Bliss All Natural Coffee Creamer Sweet Cream Flavor,15,control
+7713,94,Malbec,16,control
+7720,35,Honeycrisp Apple,23,test
+7739,50,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese,32,test
+7744,100,Whole Milk,58,test
+7762,48,Supergreens!,36,test
+7767,32,Natural Premium Coconut Water,14,control
+7774,34,Organic Strawberries,13,control
+7775,48,Organic Fat Free Milk,34,control
+7792,43,Original Nooks & Crannies English Muffins,28,control
+7809,50,Banana,26,control
+7818,60,Chocolate Milk,36,control
+7821,35,Orange Juice,34,control
+7823,52,Organic Unsweetened Almond Milk,20,test
+7832,99,Magnesium 250 mg,55,control
+7847,40,Unsweet Blackberry Sparkling Water,11,test
+7853,60,Banana,14,control
+7855,86,Organic Reduced Fat 2% Milk,24,control
+7871,57,Banana,33,test
+7892,56,Jalapeno Potato Chips,14,test
+7896,32,Southern Style Real Brewed Sweet Tea,19,test
+7907,40,Sparkling Water Grapefruit,14,control
+7908,51,French Vanilla Soy Creamer,42,control
+7910,40,Banana,36,control
+7911,73,Italian Sparkling Mineral Water,18,test
+7912,42,Cafe Latte Pure Lightly Sweetened Iced Coffee With Almond Milk,23,test
+7924,46,2nd Foods Chicken & Gravy,42,test
+7927,40,"Chocolate, 40%, Creamy Milk",27,control
+7958,42,Organic Whole Milk,15,test
+8007,35,Chopped Chipotle & Cheddar Salad Kit,8,test
+8014,53,Organic Mild Green Chiles Diced,31,control
+8022,41,Lactose Free 2% Reduced Fat Milk,31,test
+8028,33,Organic Lactose Free 1% Lowfat Milk,24,test
+8046,49,Organic Sriracha Hummus,47,test
+8054,50,Goat's Milk Cheese,23,test
+8058,80,Banana,49,control
+8059,54,Eggo Nutri-Grain Low Fat Waffles,23,test
+8061,53,Banana,44,test
+8072,68,Santa Fe Fiesta Salad,35,test
+8085,99,Bag of Organic Bananas,50,test
+8086,100,Organic Spring Mix,51,test
+8091,92,Organic Honey Sweet Whole Wheat Bread,58,control
+8100,68,Organic Unsweetened Creamy Cashewmilk,33,control
+8105,39,Cold Brew Coffee,13,test
+8110,40,Lime Sparkling Water,31,test
+8116,49,Banana,32,test
+8118,47,Tofu Scramble Pocket Sandwich,35,test
+8121,30,Reduced Fat Milk 100% Lactose Free,22,test
+8141,61,Organic Avocado,30,test
+8142,37,Clean Energy Berry,14,control
+8158,32,Whole Milk,17,control
+8161,76,Plain Bagels,46,test
+8167,38,Total 0% Greek Yogurt,34,control
+8170,42,Organic Italian Parsley Bunch,31,test
+8173,44,Grape White/Green Seedless,20,control
+8182,39,Banana,26,control
+8185,54,Diet Vanilla Root Beer,44,control
+8198,46,Wheat English Muffins,28,control
+8207,40,Organic Lowfat 1% Milk,24,control
+8209,49,Banana,31,test
+8211,64,Banana,43,control
+8215,39,"Clementines, Bag",25,control
+8216,61,Bag of Organic Bananas,23,control
+8220,100,Bag of Organic Bananas,60,control
+8232,57,Michigan Organic Kale,26,test
+8237,66,Organic Double Dark Chocolate Nutrition Bar,32,control
+8241,44,Organic Hass Avocado,27,control
+8243,42,2% Reduced Fat Milk,8,test
+8245,59,Soda,52,control
+8257,46,Organic Fat-Free Milk,24,control
+8265,57,Sparkling Natural Mineral Water,52,control
+8267,52,Banana,47,control
+8270,61,Banana,46,test
+8280,30,Irish Whiskey,25,control
+8282,59,Whole Milk,26,test
+8289,43,Organic Gala Apples,25,test
+8290,44,Banana,33,test
+8337,40,Unsweetened Almondmilk,11,control
+8338,49,Four Cheese Thin Crust Pizza,26,test
+8340,31,Organic Milk Chocolate Peanut Butter Cups,19,test
+8349,58,Organic Hass Avocado,28,test
+8356,52,Original Turkey Jerky,22,control
+8357,42,Zero Calorie Cola,14,control
+8359,100,100% Raw Coconut Water,85,control
+8362,59,Banana,50,test
+8365,99,Organic Whole Milk,28,control
+8388,48,Veggie Lover's Salad Blend,15,test
+8392,34,Organic Fuji Apple,25,test
+8394,45,Goo Berry Pie Probugs Kefir,28,test
+8406,42,Sparkling Water Grapefruit,24,control
+8414,35,Sparkling Water Grapefruit,26,test
+8417,86,"Organic Milk Reduced Fat, 2% Milkfat",52,test
+8418,37,Organic Hass Avocado,15,test
+8419,100,Organic Baby Arugula,38,test
+8420,100,Banana,43,control
+8422,47,2% Reduced Fat Organic Milk,29,test
+8425,35,Organic Whole Milk,30,test
+8442,35,Total 2% All Natural Low Fat 2% Milkfat Greek Strained Yogurt,28,control
+8450,34,Michigan Organic Kale,18,control
+8454,49,Synergy Organic Kombucha Gingerberry,43,control
+8479,36,Organic Hass Avocado,19,test
+8485,49,Organic Darkest Cacao Truffles,16,test
+8500,76,Banana,57,control
+8502,64,100% Recycled 2 Ply Jumbo Paper Towel Roll,45,control
+8506,53,Organic Whole Milk,45,test
+8524,51,Bag of Organic Bananas,26,test
+8535,69,Organic Fuji Apple,38,control
+8537,87,Organic Avocado,33,test
+8545,36,Banana,33,test
+8596,34,Organic Broccoli Florets,10,test
+8601,64,Limes,26,test
+8611,44,Banana,27,test
+8639,42,"Milk, Organic, Vitamin D",34,test
+8652,48,Strawberry and Banana Fruit Puree,27,control
+8656,64,Organic Whole Milk,46,test
+8657,36,Bag of Organic Bananas,18,control
+8662,34,2% Reduced Fat Milk,17,test
+8664,100,Strawberries,38,control
+8671,39,Organic Avocado,13,control
+8672,36,Organic Whole Milk,16,test
+8677,44,Banana,31,test
+8687,72,Bag of Organic Bananas,29,test
+8703,100,Hass Avocados,68,test
+8706,46,Oven Roasted Turkey,38,control
+8723,36,Soda,25,test
+8736,32,Beer,26,test
+8737,85,Organic Honey Sweet Whole Wheat Bread,32,test
+8742,40,Organic Whole Milk,35,control
+8746,69,Bag of Organic Bananas,56,control
+8747,82,Diet Orange Diet CSD,34,control
+8748,63,Total 2% All Natural Greek Strained Yogurt with Honey,45,control
+8761,33,Multigrain Bread,23,control
+8770,40,Spring Water,28,control
+8779,100,Unsweetened Original Almond Breeze Almond Milk,51,test
+8782,39,Bag of Organic Bananas,22,control
+8792,31,Dha Omega 3 Reduced Fat 2% Milk,26,control
+8803,58,Banana,28,control
+8805,40,Bag of Organic Bananas,34,test
+8806,69,Organic Whole Milk,56,control
+8812,73,Chocolate Cookie with Salted Caramel Ice Cream,44,control
+8814,33,Pure Water,24,control
+8816,47,Artesano Style Bread,19,control
+8832,100,Large Alfresco Eggs,56,test
+8841,60,Fat Free Milk,32,control
+8842,49,Bag of Organic Bananas,38,test
+8843,43,Pure Sparkling Water,34,test
+8844,40,"French Baguettes, Take & Bake, Twin Pack",22,test
+8846,35,Red Peppers,14,test
+8852,45,Large Alfresco Eggs,26,test
+8873,39,Bag of Organic Bananas,29,test
+8894,52,Bag of Organic Bananas,15,control
+8896,34,Sparkling Water Grapefruit,23,control
+8914,37,Whole Milk With Vitamin D,16,control
+8920,39,Banana,23,control
+8924,46,Reduced Fat 2% Milk,27,control
+8934,34,Apple Cinnamon GoGo Squeez,21,test
+8939,45,Organic Strawberries,30,test
+8946,46,Light Style Soft Wheat Bread,26,test
+8959,37,Organic Grape Tomatoes,15,control
+8975,45,Total 0% Greek Yogurt,36,test
+8991,42,Zero Calorie Cola,22,test
+9011,53,Organic Whole Milk,43,test
+9029,44,Baby Cucumbers,44,control
+9036,99,Organic Peach Oo La Long Tea,54,control
+9049,65,Organic Lactose Free Whole Milk,27,control
+9055,54,Original Spray,28,test
+9058,42,Banana,27,test
+9062,46,Cucumber Kirby,43,control
+9070,61,Organic Honey Sweet Whole Wheat Bread,41,control
+9082,100,Whole Milk,72,test
+9083,33,Organic Gluten Free Maple Buckwheat Flakes,23,test
+9095,30,Sparkling Natural Mineral Water,20,control
+9097,49,Organic Greek Whole Milk Blended Vanilla Bean Yogurt,25,test
+9106,100,Banana,43,test
+9135,32,Gala Apples,27,test
+9141,96,Trilogy Kombucha Drink,68,control
+9143,38,Light Weight Instant Action  Litter,13,control
+9158,98,Non-Fat Vanilla Yogurt,52,control
+9174,42,Just Green Unsweetened Tea,37,control
+9185,46,Organic Raw Kombucha Gingerade,21,test
+9192,74,Unsweetened Almondmilk,36,test
+9194,30,Organic Hass Avocado,12,test
+9199,30,Organic Reduced Fat Milk,19,control
+9209,65,Banana,24,control
+9213,35,Bag of Organic Bananas,16,test
+9221,58,Curate Cherry Lime Sparkling Water,13,control
+9239,89,Duke Medium Roast Cold Brew Coffee Concentrate,57,control
+9250,43,Original Roasted Seaweed Snacks,20,control
+9251,43,Vanilla Almond Breeze Almond Milk,24,test
+9257,54,David Seeds Sunflower Seeds,46,control
+9259,32,Organic Medium Salsa,25,test
+9261,42,Gluten Free Ginger Zinger Cookies,15,control
+9274,38,Organic Crushed Fire Roasted Tomatoes,15,control
+9279,47,"Organic Red Radish, Bunch",26,control
+9291,51,Banana,45,control
+9303,67,Mini Seedless Cucumbers,39,test
+9320,99,Organic Garlic,44,control
+9326,56,Original Semisoft Cheese,40,test
+9330,68,Banana,34,test
+9333,99,Asparagus,41,test
+9341,94,Bag of Organic Bananas,20,test
+9365,50,Banana,37,control
+9372,50,Sparkling Energy Water Lemon Lime,43,control
+9376,37,Lemon Italian Sparkling Mineral Water,20,control
+9378,38,Banana,24,test
+9410,52,Grassmilk 2% Reduced Fat Milk,40,control
+9420,47,I Heart Baby Kale,25,control
+9429,42,Banana Cream Traditional Oikos Greek Yogurt,31,test
+9432,55,Boneless Skinless Chicken Breast,43,control
+9436,58,Organic Reduced Fat Milk,50,test
+9437,100,Organic Mint Bunch,49,test
+9441,52,Simply Clean Baby Wipes,8,test
+9452,58,Half & Half,12,test
+9461,46,"Genoa Salame, Provolone Cheese & Breadsticks",29,control
+9473,45,Organic Half & Half,29,control
+9476,88,"Muffins, Flax, Wild Blueberry",70,control
+9486,54,Organic Whole Milk,53,test
+9493,46,Organic Unsweetened Vanilla Almond Milk,28,control
+9500,85,Clementines,58,test
+9501,47,Organic Heavy Whipping Cream,25,test
+9503,47,Half & Half,22,test
+9512,56,Organic Vanilla Almond Milk,43,test
+9513,99,Dha Omega 3 Vitamin D Milk,43,test
+9514,30,Ezekiel 4:9 Sprouted Grain Tortillas,9,control
+9516,48,Organic Lactose Free Whole Milk,38,control
+9519,53,Plain Bagels,14,control
+9534,98,Rice Express Fresh Steamed Sticky White Rice,47,control
+9543,36,Greek Salad,19,test
+9552,71,Fruit & Nutty Almonds Raisins Cranberries Pecans Granola,27,test
+9577,75,Bag of Organic Bananas,56,test
+9613,38,Organic Agave Nectar,13,control
+9655,79,Major Dickason's Blend Dark Roast K-Cups,35,test
+9657,45,Organic Avocado,28,control
+9667,100,Organic Coconut Bliss Salted Caramel in Chocolate,37,control
+9675,45,Bag of Organic Bananas,42,test
+9676,34,Natural Artesian Water,18,control
+9682,100,Banana,84,test
+9719,60,Lactose Free Low Fat Vanilla Yogurt,43,test
+9720,41,Fridge Pack Cola,16,test
+9724,52,Banana,40,control
+9757,32,Bag of Organic Bananas,27,test
+9773,40,Sour Cream & Onion Potato Chips,34,test
+9798,30,Organic Yukon Gold Potato,18,control
+9816,70,Raspberries,19,control
+9817,52,Organic Whole Milk,36,control
+9829,47,Soft Pretzel Mini Buns,37,control
+9832,41,Organic Cilantro,14,test
+9852,46,Dry Roasted Macadamias with Sea Salt,33,control
+9858,50,Toasted Coconut Almondmilk Blend,28,test
+9910,100,100% Raw Coconut Water,60,control
+9911,100,Unsweetened Original Almond Breeze Almond Milk,60,control
+9913,42,Raspberries,19,control
+9945,38,Butter Bread,12,control
+9950,69,Butter Pecan Ice Cream,39,control
+9961,57,Thin Stackers Brown Rice Lightly Salted,34,test
+9978,35,Roasted Red Pepper Hommus,28,test
+9981,60,Purified Water,48,test
+10000,73,Organic Strawberries,45,test
+10020,62,Banana,23,control
+10030,44,Cream Top Smooth & Creamy Vanilla Yogurt,29,test
+10031,54,Raisin Bran Cereal,21,control
+10034,49,Whole Vitamin D Milk,43,control
+10046,100,Whole Milk,62,test
+10047,33,Organic Natural Red,17,test
+10063,55,Power Snack Cacao Goji Superfood,45,test
+10064,44,Organic 2% Reduced Fat Milk,34,control
+10071,42,Bag of Organic Bananas,30,test
+10074,30,Large Lemon,18,test
+10083,46,Light Imported Beer From Mexico,40,test
+10108,30,Peach Pear Flavored Sparkling Water,10,test
+10114,56,Reduced Fat Milk 100% Lactose Free,13,control
+10118,45,Veganic Sprouted Brown Rice Cacao Crisps,22,test
+10124,61,Banana,42,control
+10132,45,Dairy Free Coconut Milk Chocolate Yogurt Alternative,27,control
+10137,44,Organic Gala Apples,36,test
+10142,34,Strawberries,20,test
+10150,43,Purified Water,33,test
+10156,54,Sensitive with Iron Infant Formula,24,test
+10157,91,"Bread, Country Buttermilk",30,test
+10171,32,Organic Zucchini,14,test
+10179,34,Reduced Fat 2% Milk,10,test
+10215,55,Authentic French Brioche,52,control
+10218,85,Brown Fertile Large Grade AA Eggs,41,control
+10220,40,Applewood Smoked Bacon,11,test
+10221,80,Sparkling Natural Mineral Water,53,control
+10236,45,Frozen Breaded Bagged Chicken Nuggets,37,control
+10238,44,Sparkling Water Grapefruit,18,control
+10241,89,Unsweetened Almondmilk,58,control
+10244,55,100% Pure Pumpkin,34,control
+10265,62,Pulp Free Orange Juice,26,control
+10292,54,Unsweetened Watermelon Water,20,test
+10293,99,Bag of Organic Bananas,59,control
+10302,38,Strawberry and Banana Fruit Puree,31,test
+10312,32,Sweet Batard,22,test
+10345,64,French Vanilla Creamer,40,control
+10355,47,Half & Half,34,test
+10358,59,Grade A Goat Milk,38,test
+10374,53,Banana,47,test
+10378,44,Banana,35,test
+10379,47,Organic Raw Kombucha Gingerade,43,control
+10385,47,100% Raw Coconut Water,31,control
+10393,69,Apple Juice,47,test
+10396,46,Organic Large Brown Grade AA Cage Free Eggs,36,control
+10429,82,Bag of Organic Bananas,43,control
+10451,74,Baked Whole Grain Wheat Hint of Salt Crackers,43,test
+10463,94,Organic Whole Milk,58,test
+10476,41,Banana,36,test
+10492,31,100% Raw Coconut Water,26,test
+10502,100,Bag of Organic Bananas,60,control
+10518,37,Total 2% All Natural Greek Strained Yogurt with Honey,21,test
+10519,54,Organic Baby Spinach,29,test
+10521,55,Organic Vanilla Soymilk,50,test
+10535,84,Organic Lacinato (Dinosaur) Kale,40,control
+10539,32,Organic Lactose Free Whole Milk,18,control
+10546,99,Hass Avocados,48,control
+10547,49,Large Alfresco Eggs,19,test
+10567,39,Organic Blueberries,9,test
+10579,60,Granny Smith Apples,23,control
+10592,43,Banana,27,control
+10595,52,Fat Free Milk,38,control
+10600,100,Chocolate Chip Cookie,25,control
+10604,66,Organic Fat Free Milk,52,control
+10606,36,Original Soy Creamer,34,control
+10607,41,Chocolate Milk,29,control
+10613,66,Banana,46,control
+10626,65,Italian Sparkling Mineral Water,33,test
+10632,42,Natural Artesian Water,24,control
+10635,32,Plain Greek Yogurt,29,control
+10646,42,Jalapeno Hummus,36,control
+10660,90,Sparkling Water Grapefruit,30,control
+10666,44,Banana,42,test
+10669,50,Organic Whole Milk,43,control
+10691,36,Bag of Organic Bananas,21,control
+10704,45,Organic Apple Juice,26,control
+10707,33,Organic Hass Avocado,27,test
+10713,38,Banana,37,control
+10738,57,Organic Whole Milk,37,test
+10744,43,Bag of Organic Bananas,26,test
+10747,100,Minis Coconut Milk Non Dairy Frozen Dessert Fudge Bars,80,test
+10750,50,Organic Fat-Free Milk,22,test
+10755,32,Organic Freeze Dried Maqui Powder Patagonian Superfruit,3,test
+10757,47,Limes,14,test
+10760,48,Sparkling Natural Mineral Water,28,control
+10776,36,Zero Calorie Creamy Root Beer Stevia Soda,25,test
+10782,30,Organic Baby Spinach,13,test
+10783,40,"Parsley, Italian (Flat), New England Grown",18,test
+10786,41,Bananas,19,test
+10789,37,Bean & Cheese Burrito,21,test
+10804,63,Original Whole Fat Lactose Free Milk,28,test
+10811,41,Organic Hass Avocado,23,test
+10822,43,Hommus Classic Original,21,test
+10826,41,1 Liter,12,test
+10828,41,Mozzarella String Cheese,39,test
+10850,52,Organic Fat-Free Milk,32,control
+10859,50,Organic Blackberries,18,control
+10861,36,Organic Whole Milk with DHA Omega-3,31,test
+10867,38,Dha Omega 3 Reduced Fat 2% Milk,23,control
+10868,42,2% Reduced Fat Milk,12,control
+10869,46,Nonfat Strawberry With Fruit On The Bottom Greek Yogurt,32,control
+10875,43,Organic Spring Mix,21,test
+10886,79,Bag of Organic Bananas,63,control
+10888,67,Almond Milk Peach Yogurt,36,control
+10899,70,Garden Vegetable Salad Roll,65,control
+10905,34,Graduates Mixed Berries Yogurt Melts,16,test
+10925,56,Fresh Cut Cauliflower & Broccoli Steam in Bag,18,test
+10926,63,Thin Crust Pepperoni Pizza,21,control
+10934,99,100% Pure Apple Juice,85,test
+10972,54,Oh My Yog! Madagascar Vanilla Trilayer Yogyurt,50,test
+10992,39,Organic Milk Chocolate Peanut Butter Cups,30,test
+10996,33,Green Beans,21,control
+10997,60,Sparkling Water Grapefruit,32,test
+11001,50,Vitamin D Organic Whole Milk,30,control
+11015,34,Large Lemon,22,test
+11018,38,Organic Raw Kombucha Gingerade,20,test
+11026,48,Soft Pretzel Burger Buns,41,control
+11036,49,"Milk, Organic, Vitamin D",28,control
+11040,46,Organic Garbanzo Beans,26,control
+11044,48,Banana,24,test
+11056,31,Banana,17,control
+11058,68,Hazelnut Coffee Creamer,31,test
+11062,50,Hass Avocados,46,control
+11066,42,Salted Butter,13,control
+11073,38,Banana,20,control
+11083,38,Organic Red Bell Pepper,23,test
+11085,41,Low Fat Vanilla Yogurt,38,control
+11098,41,Unsweetened Almond Milk,19,control
+11112,67,Hass Avocados,37,test
+11122,31,Lowfat Vanilla Milk,29,test
+11165,34,Michigan Organic Kale,15,test
+11170,60,Natural Chicken & Sage Breakfast Sausage,27,control
+11176,48,Lemon Yogurt,20,test
+11180,33,Organic Russet Potato,17,test
+11189,46,Pure Irish Butter,29,test
+11200,68,Apple Honeycrisp Organic,28,control
+11204,74,Bag of Organic Bananas,28,control
+11205,54,Banana,47,control
+11216,44,Bag of Organic Bananas,12,test
+11222,40,Original Hummus,12,control
+11223,35,Fresh Mozzarella Ball,32,control
+11225,62,Strawberries,26,control
+11231,36,Organic Unsweetened Almond Milk,35,control
+11233,33,Organic Hass Avocado,14,control
+11236,82,Organic Reduced Fat 2% Milk,35,control
+11243,43,Pistachios,35,control
+11261,58,Organic Strawberries,22,test
+11290,57,Organic Baby Carrots,30,control
+11312,37,Dha Omega 3 Reduced Fat 2% Milk,11,control
+11315,64,Organic Reduced Fat 2% Milk,43,control
+11334,99,Organic Boneless Skinless Chicken Breast,31,control
+11361,51,Cherubs Heavenly Salad Tomatoes,38,test
+11367,52,Red Mango,41,control
+11375,100,Bag of Organic Bananas,45,test
+11386,39,Strawberries,23,test
+11397,64,Bananas,21,test
+11405,32,Raspberries,17,test
+11408,31,Packaged Grape Tomatoes,14,control
+11418,45,All Natural Fresh Chicken Wings,33,test
+11431,83,Organic Sprouted English Muffin,58,control
+11444,65,Natural Artisan Water,37,control
+11450,41,Bag of Organic Bananas,36,control
+11454,40,Organic Low Fat Milk,26,test
+11455,49,Grade A Goat Milk,34,test
+11457,38,Total 2% with Strawberry Lowfat Greek Strained Yogurt,23,test
+11460,37,Organic Tomato Cluster,26,test
+11464,47,Prosciutto,23,control
+11478,38,Original Turkey Jerky,28,test
+11507,50,Organic Baby Spinach,33,test
+11511,94,Michigan Organic Kale,70,control
+11519,54,Sparkling Water Grapefruit,31,control
+11523,41,YoKids Squeeze! Organic Strawberry Flavor Yogurt,30,test
+11529,47,Phish Food® Ice Cream,33,test
+11547,54,Frozen Organic Wild Blueberries,35,control
+11555,58,Vegetable Dumpling,52,control
+11569,35,Organic Homogenized Whole Milk,21,test
+11588,100,Sourdough Bread,80,test
+11597,35,0% Fat Free Organic Milk,13,control
+11602,60,Banana,39,test
+11603,69,Organic Reduced Fat Milk,29,control
+11632,45,Corn Tortilla Chips,32,control
+11637,41,Organic Fuji Apple,36,control
+11650,60,Organic  Whole Milk,51,control
+11679,31,Honey Graham Crackers,17,control
+11680,55,Organic Hass Avocado,22,test
+11715,40,Organic Spelt Tortillas,29,control
+11729,40,Vitamin D Milk,37,control
+11742,50,Cold-Pressed Organic Orange,25,test
+11746,30,Variety Pack,12,test
+11755,51,Seedless Cucumbers,36,control
+11767,36,Organic Plain Whole Milk Yogurt,18,control
+11774,47,Bag of Organic Bananas,36,control
+11776,30,Cabernet Sauvignon,8,control
+11785,44,Intense & Smoky French Roast Dark Roast Ground Coffee,22,test
+11796,32,Orange with Mango Juice,14,test
+11808,56,Organic Whole Milk,31,test
+11809,90,Spring Water,67,test
+11819,36,Organic Zucchini,13,test
+11823,36,Hazelnut Fat Free Liquid Coffee Creamer,11,control
+11839,62,Sparkling Lemon Water,56,test
+11841,34,Lime Sparkling Water,19,control
+11845,100,Bag of Organic Bananas,62,test
+11871,94,Organic Apple Slices,19,control
+11873,51,Banana,44,test
+11883,37,Bag of Organic Bananas,22,control
+11887,32,Most Wanted California Pinot Grigio White Wine,29,control
+11888,70,Organic Grape Tomatoes,32,test
+11894,46,Harvest Best in 100% Fruit Juice Mandarin Oranges,12,test
+11895,72,Bag of Organic Bananas,25,control
+11905,52,Half & Half,40,test
+11907,84,Spring Water,47,test
+11912,46,Banana,43,test
+11913,43,Banana,37,test
+11914,60,Banana,46,test
+11918,40,Organic Half & Half,22,control
+11949,52,Multigrain Tortilla Chips,26,test
+11950,64,UDI'S GLUTEN FREE WHOLE GRAIN BREAD,37,test
+11953,58,Original No Pulp 100% Florida Orange Juice,43,test
+11963,35,Pure Irish Butter,14,test
+11964,55,Diet Caffeine Free Naturally Flavored Lemon Lime Soda,35,test
+11980,99,Spring Water,39,test
+11981,51,Unsweetened Almondmilk,38,test
+11997,82,Hass Avocados,28,test
+11998,47,Original Coconut Milk Creamer,37,control
+12001,63,No Sugar Added Variety Fruit Bars,53,test
+12010,47,Everyday Assorted Heavy Duty Flatware,22,test
+12025,46,Orange Juice,45,test
+12040,48,Strawberries,33,control
+12043,43,Organic Reduced Fat Milk,28,test
+12044,55,Large Lemon,43,control
+12046,54,Roasted Turkey Breast,41,test
+12065,41,Carrots,21,test
+12072,33,Limes,27,test
+12074,30,Organic Evaporated Milk,23,test
+12084,41,Banana,20,control
+12091,59,Roasted Turkey,32,control
+12098,48,Organic Tomato Cluster,24,control
+12102,100,Banana,71,control
+12115,46,Shredded Iceberg Lettuce,28,control
+12128,65,Cane Sugar,51,control
+12135,31,Organic Kiwi,31,test
+12146,30,Organic Avocado,26,test
+12157,67,Banana,50,control
+12160,76,Spring Water,30,test
+12165,41,Bag of Organic Bananas,20,control
+12166,99,Organic Fat-Free Milk,45,test
+12177,35,Organic Unsweetened Almond Milk,17,control
+12184,66,Banana,35,control
+12186,62,12 Grain Bread,34,control
+12190,53,Bag of Organic Bananas,46,control
+12191,39,Banana,24,control
+12202,49,Banana,43,control
+12205,88,Unsweetened Coconut Milk Beverage,46,control
+12214,39,Organic Granny Smith Apple,15,test
+12232,35,Italian Sparkling Mineral Water,13,control
+12237,76,Soda,28,control
+12249,57,"Organic Milk Reduced Fat, 2% Milkfat",37,control
+12256,41,Smartwater,24,test
+12273,38,Black Forest Ham,23,control
+12309,54,Cracked Wheat Sourdough Loaf,19,test
+12319,78,Love Crunch Dark Chocolate And Peanut Butter Granola,25,test
+12325,56,Bag of Organic Bananas,50,test
+12329,42,Oven Roasted Turkey,15,control
+12334,33,Organic Strawberries,13,test
+12339,39,Organic Whole Cashews,28,control
+12347,39,Organic Avocado,16,test
+12356,35,Cherubs Heavenly Salad Tomatoes,16,test
+12359,58,Organic Hass Avocado,39,test
+12370,43,Banana,27,test
+12371,45,Oven Roasted Turkey Breast,26,test
+12386,46,Banana,31,test
+12395,47,"Iced Chai, Original",18,test
+12400,55,Organic Plain Whole Milk Yogurt,25,control
+12406,71,Chunky Guacamole,16,test
+12407,46,Extra Fancy Unsalted Mixed Nuts,32,test
+12414,32,General Mills Multi-Grain,8,test
+12416,60,Bag of Organic Bananas,44,test
+12424,47,Clementines,36,control
+12428,30,Bag of Organic Bananas,23,test
+12430,99,Organic Raspberries,54,test
+12435,56,Major Dickason's Blend Ground Coffee Dark Roast,41,test
+12448,59,Bag of Organic Bananas,35,test
+12449,34,Simply Naked Bagel Chips,9,control
+12469,58,"Pull 'n' Peel Candy, Cherry",35,control
+12470,72,Multi Grain Cheerios,35,control
+12473,100,Frozen Organic Blueberries,41,test
+12475,49,White Corn Tortillas,26,test
+12480,54,Fat Free Sour Cream,22,test
+12483,38,Organic Fat Free Dha Omega 3 Milk,22,test
+12486,85,Soda,81,test
+12487,70,Peanut Butter Chocolate Chip Macrobar,32,test
+12490,58,Organic Coconut Milk,45,test
+12514,58,Organic Fat Free Milk,54,test
+12520,52,Organic Baby Spinach,37,control
+12548,46,Banana,22,test
+12549,61,Banana,45,test
+12564,61,Banana,33,control
+12585,35,Mild Cheddar Cheese Sticks,14,control
+12586,47,Cocoa Noir Cold Brew Coffee With Almondmilk,35,control
+12587,100,Organic Hass Avocado,29,control
+12602,40,Organic Large Extra Fancy Fuji Apple,40,test
+12623,38,Sparkling Natural Mineral Water,37,control
+12637,60,TAB,54,test
+12641,99,Bag of Organic Bananas,56,test
+12643,53,Organic California Style Sprouted Bread,45,test
+12657,44,Organic Large Extra Fancy Fuji Apple,39,control
+12662,48,Vitamin D Whole Milk,36,test
+12664,58,Direct Trade El Diablo Dark Roast Whole Bean Coffee,40,test
+12666,34,Michigan Organic Kale,25,control
+12669,32,Banana,18,test
+12670,65,2% Reduced Fat Milk,46,control
+12702,32,Gummy Bears,22,test
+12709,42,Bag of Organic Bananas,35,control
+12711,53,Natural Chicken & Sage Breakfast Sausage,33,test
+12726,43,"Coconut Water, Real, with Pulp",30,control
+12752,34,Organic Plain Greek Whole Milk Yogurt,18,test
+12753,35,Organic Orange Fruit Juice,34,test
+12759,50,Organic Milk Whole,42,control
+12772,100,Frontier Straight 95% Rye Mash Whiskey,81,control
+12782,43,Organic Lowfat Milk,27,control
+12801,46,Organic Fat Free Milk,46,control
+12824,59,0% Greek Strained Yogurt,27,test
+12825,58,Free & Clear Unscented Baby Wipes,19,test
+12830,48,Organic Reduced Fat 2% Milk,22,control
+12831,32,Just Green Unsweetened Tea,19,control
+12836,53,Organic Baby Spinach,22,control
+12849,71,Bag of Organic Bananas,38,control
+12853,70,Organic Unsweetened Almond Milk,66,control
+12856,53,Organic Fat Free Milk,44,test
+12860,70,Cran Raspberry Sparkling Water,37,test
+12863,34,Clementines,30,control
+12875,44,Organic Low Fat Milk,37,test
+12879,35,Organic Lowfat Black Cherry Yogurt,19,test
+12884,57,Cola,37,test
+12886,100,Gluten Free Crunchy Vanilla Cereal,47,test
+12889,38,Organic Whole Milk,27,control
+12899,85,Bag of Organic Bananas,63,test
+12906,57,S'mores Luna Bar,41,test
+12919,40,Strawberries,15,control
+12924,52,Banana,26,test
+12930,31,"Handmade Vodka From Austin, Texas",24,test
+12936,31,Organic Avocado,25,control
+12940,38,Extra Strength Dietary Supplement Berry,21,test
+12942,100,Bag of Organic Bananas,47,control
+12943,55,Peppermint Sugar Free Gum,23,test
+12976,61,Natural Pulp Free Coconut Water,40,test
+12978,55,Strawberry Rhubarb Yogurt,18,control
+12993,65,Club Soda,26,test
+12995,45,Coconut Almond Protein Chewy Bars,22,control
+13007,40,Natural Black Cherry Gels Gelatin Free Snacks,18,control
+13010,37,Grade A Large White Eggs,24,test
+13028,41,"Bread, Country Buttermilk",17,control
+13035,66,Green Beans,46,control
+13037,40,Banana,37,control
+13041,35,Everything Bagels,30,control
+13050,46,Bag of Organic Bananas,35,control
+13053,44,Organic Strawberries,19,control
+13054,31,Unsweetened Original Almond Breeze Almond Milk,23,test
+13055,43,Organic Garbanzo Beans,8,control
+13062,41,Trail Mix,21,test
+13068,40,Pinot Grigio,39,control
+13092,62,Apples,53,control
+13097,56,Tomato Medley,31,control
+13107,92,Plain Bagels,64,test
+13112,42,Avocado Oil Himalayan Salt Chips,17,control
+13130,42,Grade A Large White Eggs,9,control
+13131,88,100% Raw Coconut Water,64,control
+13146,34,Spring Water,33,test
+13149,50,Hickory Smoked Turkey Breast,37,control
+13160,48,Organic Green Cabbage,20,test
+13165,38,Half & Half,18,control
+13178,53,Clementines,21,test
+13183,64,Organic Large Grade A Brown Eggs,39,test
+13204,31,Organic Avocado,31,test
+13206,38,Organic Large Brown Grade AA Cage Free Eggs,16,control
+13207,46,Smart Ones Canadian Style Turkey Bacon English Muffin Sandwich,24,control
+13211,52,Hickory Smoked Turkey Breast,40,test
+13229,32,Vanilla Almond Breeze Almond Milk,13,test
+13230,31,Banana,29,test
+13241,50,Diet Caffeine Free No Calorie Orange Soda,13,test
+13248,40,Natural Mini Pork Pepperoni,27,control
+13257,36,100% Lactose Free Fat Free Milk,27,test
+13260,42,Banana,25,test
+13263,65,2% Reduced Fat DHA Omega-3 Reduced Fat Milk,21,control
+13275,45,Mini Seedless Cucumbers,18,control
+13280,45,Large Alfresco Eggs,23,test
+13309,40,Flaked Tuna Feast Cat Food,7,control
+13315,43,Gluten Free SpongeBob Spinach Littles,18,test
+13326,55,Italian Sparkling Mineral Water,40,test
+13330,72,Banana,54,control
+13334,85,Total 2% Lowfat Greek Strained Yogurt with Peach,55,control
+13335,100,Gluten Free Whole Grain Bread,40,test
+13341,33,Unsweetened Iced Coffee,23,control
+13349,68,1% Lowfat Milk,47,control
+13354,73,Bunched Cilantro,19,test
+13362,74,Original Whole Fat Lactose Free Milk,24,test
+13367,44,Sparkling Water Berry,26,test
+13386,33,Oikos Greek Yogurt Traditional Lemon Meringue,26,test
+13406,95,Organic Strawberries,40,control
+13423,39,100 Calorie Variety Sack,20,control
+13429,50,Vodka,32,control
+13430,43,Bag of Organic Bananas,23,test
+13432,38,Fresh Mozzarella Snacking Cheese,14,control
+13442,66,Organic Whole Milk,61,test
+13445,58,Bag of Organic Bananas,28,test
+13456,38,Cage Free Large White Eggs,15,control
+13467,64,Organic Dark Chocolate Peanut Butter Cups,35,control
+13496,49,Cookie Dough Nutrition Bar,28,test
+13506,40,Green Seedless Grapes,22,control
+13523,56,Synergy Organic & Raw Cosmic Cranberry,35,control
+13527,71,Broccoli Florets,27,test
+13530,39,Organic Blueberries,33,test
+13531,46,Organic Baby Spinach,20,control
+13533,36,Original Orange Juice,18,control
+13537,46,Organic Raspberries,34,control
+13548,51,Michigan Organic Kale,51,control
+13559,54,Salted Butter,9,test
+13562,88,100% Raw Coconut Water,34,control
+13593,36,Asparagus,20,control
+13596,57,Original Hummus,25,test
+13607,62,Oven Roasted Turkey,60,test
+13608,30,Raspberry Blackberry Sparkling Water,23,control
+13618,53,Organic Broccoli,33,test
+13620,58,Carrots,24,test
+13623,84,Strawberry Rhubarb Yogurt,21,control
+13628,70,Banana,37,test
+13634,37,Total 0% with Honey Nonfat Greek Strained Yogurt,24,control
+13643,44,Bag of Organic Bananas,26,test
+13644,30,Muscat Grapes,10,test
+13650,38,Organic Kiwi,21,control
+13655,48,Banana,33,test
+13670,44,Organic Whole Milk,42,test
+13671,34,White Cheddar Popcorn,14,control
+13701,91,Unsweetened Almondmilk,76,test
+13731,30,Mini Chocolate Chunk Cookies,14,control
+13735,40,Cream Top Smooth & Creamy Vanilla Yogurt,34,control
+13736,100,Bag of Organic Bananas,70,test
+13749,52,Organic Reduced Fat Milk,41,control
+13754,50,Organic Unsweetened Vanilla Almond Milk,30,test
+13757,35,Mack's Flax Sprouted Whole Grain Bread,32,control
+13766,38,Organic Raw Kombucha Gingerade,15,control
+13773,36,Large Lemon,12,control
+13776,41,Cream Top Smooth & Creamy Plain Yogurt,10,control
+13783,62,Organic Large Brown Eggs,48,test
+13784,37,Pure Irish Butter,16,control
+13785,39,Limes,19,test
+13796,40,White Multifold Towels,27,test
+13797,50,Serrano Chile Peppers,46,control
+13804,39,Organic Hass Avocado,25,test
+13829,32,Organic Whole Milk,12,test
+13830,42,Jumbo Grade A Eggs,28,control
+13851,42,Banana,12,control
+13855,41,Classic Almond Butter,28,test
+13862,48,Large Alfresco Eggs,21,control
+13882,31,Organic Hass Avocado,10,control
+13927,100,Bag of Organic Bananas,42,test
+13943,84,Coffee Mate French Vanilla Creamer Packets,32,control
+13945,96,Super Premium Chocolate Ice Cream,56,test
+13947,40,Organic Half Tea & Half Lemonade,38,control
+13951,100,Half and Half,31,test
+13958,63,Banana,46,test
+13997,46,Organic Low Fat Chocolate Milk,17,control
+13999,47,Spring Water,28,test
+14012,33,Vitamin Water Zero Rise Orange,32,control
+14031,56,Baguette Sourdough,17,control
+14050,57,Bag of Organic Bananas,38,control
+14061,52,Banana,32,control
+14077,54,Banana,24,control
+14080,40,Organic Whole Milk,27,control
+14081,32,Unsweetened Vanilla Almond Milk,17,control
+14091,61,Banana,39,control
+14092,37,Cinnamon Raisin Bread,18,control
+14097,41,Organic Dark Salted Burnt Caramel Chocolate Bar,20,test
+14120,35,"Organic Milk Reduced Fat, 2% Milkfat",20,test
+14127,71,Organic Sea Salt Roasted Seaweed Snacks,41,test
+14168,31,Sport Chocolate Peanut Butter Protein Bar,16,control
+14172,48,Lime Sparkling Water,44,test
+14179,31,Taboule Salad,17,control
+14196,37,Sparkling Water Grapefruit,15,test
+14198,46,Lowfat Vanilla Yogurt,41,control
+14210,34,Pull Ups Boys Learning Designs Training Pants,23,control
+14224,31,Italian Sparkling Mineral Water,18,control
+14230,100,Whole Milk,83,test
+14232,30,Revel Berry Yerba Mate,21,control
+14240,43,Spring Water,34,test
+14243,44,Boneless Skinless Chicken Breast,13,test
+14249,52,Organic Whole Milk,21,control
+14253,33,Very Berry Flavor Sparkling Mineral Water,23,control
+14264,45,Bag of Organic Bananas,41,test
+14268,54,Diet Coke,26,test
+14272,44,Synergy Organic & Raw Cosmic Cranberry,35,test
+14273,62,Organic Whole Milk,43,test
+14275,33,USDA AA Extra Large Eggs,14,test
+14305,31,Organic Air Chilled Whole Chicken,16,control
+14315,45,Purified Water,23,test
+14321,49,Dark Chocolate with Whole Hazelnuts,38,control
+14327,61,Organic Grade A Free Range Large Brown Eggs,26,control
+14330,43,Ginger Beer,36,test
+14332,54,Organic Blueberries,15,test
+14350,45,2% Reduced Fat Milk,36,test
+14364,33,Organic Green Cabbage,9,test
+14367,57,Banana,46,control
+14370,49,Banana,36,control
+14375,58,Organic Whole Grassmilk Milk,19,control
+14383,62,Banana,43,test
+14388,43,Banana,16,control
+14399,76,Sweet & Salty Nut Almond Granola Bars,19,control
+14407,40,Unsweetened Original Almond Breeze Almond Milk,30,control
+14414,99,Organic Whole Milk,37,test
+14416,40,SARA LEE     15OZ PLAIN MINI BAGELS,37,test
+14418,70,Green Seedless Grapes,53,test
+14428,80,Organic Strawberries,24,control
+14435,54,Organic Cucumber,35,control
+14436,54,Half And Half Ultra Pasteurized,25,control
+14437,100,Organic Fuji Apple,70,control
+14438,67,Bag of Organic Bananas,41,control
+14459,40,Sour Cream & Onion Flavored Potato Crisps,12,test
+14473,34,Unsweetened Vanilla Almond Milk,10,control
+14474,37,Organic Romaine Lettuce,18,control
+14476,47,Hass Avocados,12,test
+14477,35,Butter Lettuce,20,control
+14481,41,Organic Greek Plain Nonfat Yogurt,24,test
+14487,39,Goo Berry Pie Probugs Kefir,24,test
+14489,99,Vanilla Pure Almond Milk,37,control
+14493,92,Apple Honeycrisp Organic,36,test
+14504,55,Organic Lacinato (Dinosaur) Kale,22,test
+14505,46,1 Apple + 1 Mango Fruit Bar,37,test
+14510,45,Organic Strawberries,23,test
+14516,58,Organic AppleApple,33,test
+14529,38,Ultra-Purified Water,36,test
+14530,49,Organic Power Greens,40,control
+14552,72,Bananas,37,test
+14553,58,Jalapeno Potato Chips,49,control
+14565,38,Large Croissants,12,test
+14597,52,Banana,51,control
+14603,48,Banana,23,test
+14617,57,Organic Baby Spinach,21,test
+14646,62,1% Milkfat Low Fat Vitamin A & D Milk,50,test
+14655,43,Low Sodium Bacon,26,control
+14665,70,Water,59,test
+14669,100,Pure Sparkling Water,53,control
+14671,40,Guava Guayaba Nectar,33,test
+14687,41,Deluxe Bagels Onion,19,control
+14689,85,Bag of Organic Bananas,21,control
+14727,50,Organic Milk,31,test
+14728,44,Organic Avocado,22,test
+14734,38,Tomato Basil Cream Sauce,34,control
+14737,69,Sparkling Natural Mineral Water,42,test
+14738,34,Organic Whole Milk with DHA Omega-3,19,test
+14742,45,Organic Granny Smith Apple,25,control
+14751,51,Organic Kiwi,40,test
+14762,61,Organic Ginger Root,15,test
+14765,53,Variety Diet Tea,24,control
+14773,33,Organic Whole Milk,29,test
+14776,49,Whole Organic Omega 3 Milk,35,test
+14781,84,Original Plain Yoghurt,37,control
+14788,40,Half And Half,29,control
+14798,100,Pure Sparkling Water,47,test
+14800,34,Raspberry Yoghurt,11,test
+14813,63,"Milk, Organic, Vitamin D",46,control
+14819,32,Arancita Rossa,29,test
+14831,37,Organic Reduced Fat 2% Milk,24,control
+14846,53,Spots Stew Wild Salmon Canned Cat Food,52,control
+14857,48,Fat Free Milk,38,test
+14860,74,Spring Water,23,control
+14868,96,Organic Large Extra Fancy Fuji Apple,69,control
+14873,57,Plain Greek Yogurt,53,test
+14882,66,100% Natural Spring Water,48,test
+14887,39,Organic Small Bunch Celery,27,test
+14891,58,Bananas,23,control
+14893,59,70% Dark Chocolate Bar,34,control
+14901,47,Total 2% Lowfat Greek Strained Yogurt With Blueberry,41,test
+14910,61,Mixed Berry Sparkling Water,29,control
+14916,46,Broccoli Florettes,44,control
+14920,76,Veranda Blend Blonde Keurig Cups,56,control
+14922,46,100% Raw Coconut Water,12,test
+14923,99,Bag of Organic Bananas,59,test
+14944,37,Banana,24,control
+14952,54,"Mini 8\"" Italian Pizza Crusts",27,test
+14981,38,Organic Half & Half,29,test
+15000,53,Butter Bread,30,control
+15003,31,Organic Baby Spinach,26,control
+15030,38,Bag of Organic Bananas,28,test
+15041,32,Double Espresso Cold Brew Coffee,20,test
+15045,50,Organic Large Grade AA Brown Eggs,25,test
+15059,53,Organic Reduced Fat Milk,29,control
+15060,95,Vegan Cheddar Style Cheese Slices,34,control
+15068,48,Major Dickason's Blend Ground Coffee Dark Roast,29,test
+15069,61,Sparkling Water Grapefruit,47,test
+15071,80,Organic  Whole Milk,36,control
+15075,44,Banana,29,control
+15090,57,Bag of Organic Bananas,26,control
+15105,35,Pineapple Strawberry Sparkling Water,22,control
+15116,55,Organic Low Fat Milk,37,control
+15124,100,Organic Fat Free Milk,40,control
+15130,64,Roasted Turkey,26,test
+15160,58,Organic 1% Low Fat Milk,23,control
+15161,99,Organic Gala Apples,45,control
+15169,43,Sourdough Baguette,27,test
+15172,61,Unsalted Butter,46,test
+15175,52,Trail Mix,25,test
+15182,80,Whole Milk,76,test
+15184,40,Brut Cuvee Sparkling Champagne,31,control
+15185,44,Boomchickapop Sea Salt Popcorn,41,control
+15191,35,Apple Cinnamon & Pecan Fruit & Nut Bar,3,control
+15196,39,Cabernet Sauvignon,21,control
+15219,31,Banana,12,test
+15221,99,Italian Sparkling Mineral Water,82,test
+15229,88,Sparkling Water Grapefruit,33,control
+15297,57,Garlic Powder,8,control
+15357,62,Organic Pure Lime Juice,13,test
+15367,56,Whole Milk Plain Yogurt,36,test
+15385,47,Total 2% Lowfat Greek Strained Yogurt with Peach,34,test
+15400,50,Vitamin D Organic Whole Milk,32,test
+15411,34,Organic Raspberries,21,control
+15412,31,Bag of Organic Bananas,8,test
+15439,38,Organic Reduced Fat 2% Milk,24,control
+15447,85,Light Semisoft Cheese,52,control
+15448,69,Chocolate Peppermint Stick Bar,30,test
+15459,66,Organic Sea Salt Roasted Seaweed Snacks,30,control
+15471,41,Organic Orange Fruit Juice,27,test
+15474,36,Hass Avocados,25,control
+15479,53,Bag of Organic Bananas,36,test
+15501,99,Organic Hass Avocado,35,control
+15503,39,European Cucumber,21,control
+15505,39,Organic Grade A Raw Whole Milk,15,test
+15515,47,Bag of Organic Bananas,33,control
+15521,54,Enlightened Organic Raw Kombucha,47,test
+15523,49,Soda,28,control
+15527,38,Strawberries,18,control
+15528,58,Banana,45,test
+15530,48,Banana,36,control
+15540,52,Banana,22,control
+15545,64,Spring Water,24,control
+15553,74,Organic Whole Milk,56,test
+15557,43,Clementines,18,control
+15558,56,Organic Hass Avocado,46,control
+15564,51,Sparkling Mineral Water,47,control
+15569,57,Organic Reduced Fat 2% Milk,39,test
+15572,44,Banana,22,test
+15577,89,Banana,51,control
+15621,59,Seedless Cucumbers,23,test
+15622,35,Pure Sparkling Water,11,control
+15626,92,Organic Broccoli Florets,44,control
+15634,46,Banana,34,control
+15637,90,Organic Kiwi,64,control
+15648,54,Banana,45,control
+15659,56,Organic Vanilla Soymilk,39,control
+15667,72,Organic Whole Milk,26,test
+15710,33,Uncured Black Forest Ham,13,control
+15730,42,Cheez-It Cheddar Cracker,22,control
+15732,53,Ice,22,test
+15735,90,Wild Berry Smoothie,66,control
+15743,42,Organic Milk,28,control
+15753,37,Organic Shiitake & Vegetable Potstickers,30,control
+15754,49,Organic YoKids Smoothie Strawberry Banana Lowfat Yogurt,21,test
+15773,35,Italian Sparkling Mineral Water,31,control
+15788,31,Organic Raspberries,11,control
+15801,50,Organic Reduced Fat Milk,24,control
+15811,45,Organic Milk,28,test
+15835,44,Banana,34,control
+15843,61,Pure Coconut Water,21,control
+15846,44,Mini Seedless Cucumbers,23,test
+15857,46,Organic Raspberries,40,test
+15875,46,Premium Natural Mixers Club Soda,18,test
+15888,47,English Muffins,31,control
+15896,99,Organic Large Extra Fancy Fuji Apple,39,control
+15913,32,Pure Water,18,test
+15914,48,Healthy Kids Organic Vanilla Nutritional Shake,44,test
+15921,50,Apples,39,test
+15930,31,Bag of Organic Bananas,17,test
+15936,91,Iceberg Lettuce,18,control
+15943,53,Vanilla Soy Creamer,34,test
+15949,40,Pinot Grigio,29,control
+15951,62,Strawberry Rhubarb Yoghurt,38,test
+15957,38,Banana,24,test
+15961,96,Organic Kiwi,59,control
+15968,85,Banana,67,test
+15970,35,Bag of Organic Bananas,28,test
+15971,36,Organic Blueberries,30,test
+15980,61,Hard Cooked Eggs,32,control
+15989,34,Rainbow Bell Peppers,19,test
+15990,33,Organic Strawberries,15,test
+15995,59,Michigan Organic Kale,49,control
+16001,42,Unsweetened Original Almond Breeze Almond Milk,41,control
+16011,73,Organic Hass Avocado,32,control
+16017,34,Diet 12 Oz Ginger Ale,17,control
+16035,91,D.O.P. San Marzano Tomatoes,13,control
+16041,61,Banana,48,test
+16047,65,Rose Black,29,control
+16061,44,Vitamin Water Zero Rise Orange,34,test
+16066,40,Organic Reduced Fat Milk,13,control
+16075,45,Almond Breeze Original Almond Milk,31,test
+16103,73,Plain Soymilk Creamer,28,test
+16104,39,Vanilla Almond Breeze Almond Milk,20,test
+16113,42,"Ginger Root Beer, Naturally Flavored Zero Calorie Soda, Caffeine Free",29,test
+16115,38,Strawberries,22,control
+16118,81,Organic Jalapeno Pepper,30,test
+16126,75,Classic White Bread,55,control
+16127,77,Organic Grape Tomatoes,29,test
+16136,46,Rosemary Mini Croccantini,19,test
+16141,40,Michigan Organic Kale,38,test
+16146,44,Unsweetened Almondmilk,20,test
+16150,52,Banana,29,test
+16159,43,Dha Omega 3 Reduced Fat 2% Milk,11,control
+16163,60,2% Reduced Fat DHA Omega-3 Reduced Fat Milk,38,test
+16174,52,Energy Drink,15,control
+16184,47,Organic Zucchini,18,control
+16190,44,Organic Half & Half,32,control
+16192,46,Unsweetened Organic Soy Milk,35,control
+16194,49,Light Sea Salt Plentils,25,control
+16196,48,Cinnamon Brown Sugar Breakfast Biscuits,15,test
+16229,61,Semi-Sweet Mini Chocolate Chips,22,test
+16247,67,Organic Half & Half,43,test
+16254,55,Nut & Spices Bar Dark Chocolate Almond Mint,21,test
+16260,56,Organic Extra Large Brown Eggs,34,test
+16265,100,Natural 8 fl oz Alpine Spring Water,57,test
+16266,38,Banana,28,control
+16269,51,Organic Milk,30,test
+16270,37,Raspberries,18,test
+16274,63,Banana,56,control
+16284,51,Fat Free Plain Yogurt,37,test
+16286,48,Italian Sparkling Mineral Water,30,test
+16290,100,Bag of Organic Bananas,79,control
+16298,99,Organic Milk,63,control
+16307,32,Celery Hearts,8,control
+16308,30,Pinot Noir,11,test
+16312,66,Organic 1% Low Fat Milk,35,test
+16313,100,Spring Water,62,test
+16340,99,Lime,20,test
+16345,38,Organic Whole Milk,32,test
+16348,39,Organic Garlic,10,test
+16357,100,Black,55,test
+16364,99,Lemon Hummus,53,control
+16367,51,Backyard Barbeque Potato Chips,30,test
+16372,48,Plain Greek Yogurt,43,test
+16378,57,"Organic Milk Reduced Fat, 2% Milkfat",52,control
+16386,33,Organic Lacinato (Dinosaur) Kale,28,control
+16387,49,Fuji Apples,25,control
+16390,56,Soda,36,control
+16395,33,Banana,16,test
+16397,44,Tomato Ketchup,44,control
+16399,42,Organic Cucumber,29,control
+16400,69,Whole Milk,36,control
+16425,36,Whole White Mushrooms,31,test
+16469,53,Bag of Organic Bananas,29,control
+16479,33,Bag of Organic Bananas,18,test
+16483,67,Vanilla Protein Protein Shake,59,test
+16491,44,Bag of Organic Bananas,18,test
+16499,45,Organic Orange Juice With Calcium & Vitamin D,33,test
+16500,34,Red Leaf Lettuce,14,control
+16508,50,Baby Cucumbers,35,control
+16515,31,Banana,31,control
+16518,70,"Organic Milk Reduced Fat, 2% Milkfat",35,control
+16530,44,Sharp Cheddar Cheese,24,control
+16538,99,Spring Water,37,control
+16554,83,Organic Strawberries,40,test
+16561,52,Banana,51,test
+16566,47,Bag of Organic Bananas,20,control
+16573,46,Seedless Cucumbers,27,test
+16580,30,Pink Lady (Cripps) Apple,16,test
+16582,40,Vitamin D Whole Milk,9,control
+16592,48,Banana,24,control
+16600,100,Bag of Organic Bananas,54,test
+16603,58,2% Chocolate Milk,48,control
+16645,100,Lactose Free Yogurt Plain,50,test
+16647,34,Roma Tomato,27,control
+16648,43,Banana,24,test
+16654,40,Banana,38,control
+16656,48,Large Lemon,31,test
+16669,71,Cold-Brew Black Coffee,22,test
+16676,42,Fridge Pack Cola,6,control
+16680,100,Sourdough Bread,62,control
+16683,35,Freshly Squeezed Orange Juice,17,control
+16689,100,Organic White Bread Done Right,37,test
+16692,33,Organic Lowfat 1% Milk,18,test
+16694,53,2% Reduced Fat Milk,17,control
+16699,32,Tempt Unsweetened Original Hemp Milk,31,control
+16712,74,Bag of Organic Bananas,32,control
+16722,44,Plain Pre-Sliced Bagels,23,test
+16725,68,Garlic Mint Cheese,43,test
+16731,87,Squeezed Lemonade,38,test
+16754,33,Prosecco,20,control
+16756,33,Unsweetened Original Almond Breeze Almond Milk,29,test
+16758,53,Organic Fresh Basil,11,control
+16762,48,Smartwater,23,test
+16776,52,Multi-Seeds Cracker,34,control
+16779,49,Banana,38,control
+16788,44,Organic French Roast Ground Coffee,38,control
+16797,35,Bag of Organic Bananas,20,test
+16820,32,Organic Raspberries,20,control
+16832,44,Organic Hass Avocado,26,test
+16835,42,Bag of Organic Bananas,19,control
+16843,48,Organic  Whole Milk,37,control
+16848,34,Organic Gala Apples,18,control
+16866,35,Unsweetened Original Almond Breeze Almond Milk,23,control
+16871,66,Organic Avocado,33,test
+16874,33,Berry Bounty Trail Mix,22,control
+16879,52,Organic Whole Grassmilk Milk,38,test
+16883,43,Organic Fuji Apple,43,test
+16908,51,Cucumber Kirby,32,test
+16918,56,Bag of Organic Bananas,38,control
+16927,46,Banana,29,test
+16947,34,Organic Reduced Fat 2% Milk,22,control
+16954,52,1% Low Fat Milk,40,test
+16958,42,Spring Water,31,control
+16969,36,Dha Omega 3 Vitamin D Milk,25,test
+16971,36,Banana,35,test
+16986,47,Organic Asparagus Spears,37,test
+16989,51,Clementines,36,control
+16992,73,Bag of Organic Bananas,40,test
+16998,42,Organic Strawberries,24,test
+17001,80,Organic Raspberries,52,test
+17005,45,Diet Soda,20,control
+17016,43,Organic Baby Kale Mix,10,control
+17029,33,Low Fat Plain Yogurt,28,control
+17033,62,Trilogy Kombucha Drink,37,control
+17047,41,Unsweetened Almondmilk,18,test
+17053,85,Fat Free Milk,56,control
+17058,51,Organic Frozen Peas,47,control
+17084,57,Organic Milk,34,control
+17086,100,Organic Spring Mix,59,test
+17104,44,Chocolate Chip Cookie Dough,36,control
+17109,35,100% Whole Wheat Bread,16,control
+17115,44,Sparkling Mineral Water,25,control
+17154,36,Clams Minced In Clam Juice,25,control
+17155,99,Organic Hass Avocado,42,control
+17163,41,Icelandic Style Skyr Non-Fat Strained Plain Yogurt,22,test
+17166,50,2% Reduced Fat Milk,44,test
+17170,47,Large Alfresco Eggs,27,test
+17178,31,Banana,15,test
+17180,31,French Loaf,25,control
+17181,42,Organic Soft Wheat Bread,34,test
+17189,35,India Pale Ale,12,control
+17198,47,Dha Omega 3 Vitamin D Milk,33,control
+17199,50,Organic Nuts & Vanilla Beverage,26,control
+17202,99,Grassmilk 2% Reduced Fat Milk,50,test
+17208,54,Bag of Organic Bananas,17,test
+17222,93,Organic Hass Avocado,51,control
+17224,54,Grade A Large Eggs Cage Free Omega 3,41,test
+17231,52,Fruit Punch Sports Drink,32,control
+17238,69,Unsweetened Organic Ginger Oasis Tea,29,test
+17243,56,Unsweetened Original Almond Breeze Almond Milk,38,test
+17247,38,Chop Sweet Kale Kit,17,control
+17251,58,Banana,18,test
+17253,45,Organic Cucumber,16,test
+17255,76,Banana,50,test
+17275,58,Organic Raspberries,33,test
+17287,33,Raspberry Yoghurt,22,control
+17315,59,Skim Milk,44,test
+17332,46,Seedless Small Watermelon,17,control
+17338,42,Whole Wheat Bread,29,control
+17339,52,Mineral Water,41,test
+17356,35,Large Lemon,15,control
+17371,34,Banana,28,control
+17384,43,Dairy Free Unsweetened Vanilla Coconut Milk,17,test
+17391,63,India Pale Ale,22,test
